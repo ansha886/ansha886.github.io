@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All Posts - My New Hugo Site</title>
+    <title>所有文章 - XBruce Blog</title>
     <link>https://ansha886.github.io/posts/</link>
-    <description>My New Hugo Site</description>
+    <description>XBruce Blog</description>
     <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2024 18:10:25 +0800</lastBuildDate>
+    <language>en</language>
+    <managingEditor>181683339@qq.com (XBruce)</managingEditor>
+    <webMaster>181683339@qq.com (XBruce)</webMaster>
+    <lastBuildDate>Tue, 26 Nov 2024 18:44:02 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
