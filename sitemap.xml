@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ansha886.github.io/tags/ai-agent/</loc>
+    <lastmod>2024-11-26T18:10:25+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ansha886.github.io/tags/aigc/</loc>
     <lastmod>2024-11-26T18:10:25+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -37,7 +43,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ansha886.github.io/posts/ai-ai-data-analysis-multiagent-agent/</loc>
+    <loc>https://ansha886.github.io/posts/ai-data-analysis-multiagent-agent/</loc>
     <lastmod>2024-11-26T18:10:25+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
