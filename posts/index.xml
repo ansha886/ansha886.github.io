@@ -8,16 +8,8 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Fri, 29 Nov 2024 14:53:16 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 18:10:25 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Two First Post</title>
-      <link>https://ansha886.github.io/posts/e83b1a8/</link>
-      <pubDate>Tue, 26 Nov 2024 18:53:11 +0800</pubDate>
-      <guid>https://ansha886.github.io/posts/e83b1a8/</guid>
-      <category domain="https://ansha886.github.io/categories/draft/">Draft</category>
-      <description>Two First Post</description>
-    </item>
     <item>
       <title>一个基于AI的多代理研究助手项目：AI-Data-Analysis-MultiAgent</title>
       <link>https://ansha886.github.io/posts/ai-ai-data-analysis-multiagent-agent/</link>
