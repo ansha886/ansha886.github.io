@@ -15,8 +15,8 @@
       <link>https://ansha886.github.io/posts/ai-ai-data-analysis-multiagent-agent/</link>
       <pubDate>Tue, 26 Nov 2024 18:10:25 +0800</pubDate>
       <guid>https://ansha886.github.io/posts/ai-ai-data-analysis-multiagent-agent/</guid>
-      <category domain="https://ansha886.github.io/categories/draft/">Draft</category>
-      <description>一个基于AI的多代理研究助手项目：AI-Data-Analysis-MultiAgent</description>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <description>AI-Data-Analysis-MultiAgent是一个基于AI的多代理研究助手项目，能够自动化完成数据分析、生成研究假设、图表可视化和报告生成等任务。该项目利用LangChain、OpenAI和LangGraph构建，所有代理协作并具备逻辑思维，适用于报告、市场调研、数据分析和学术研究等领域。</description>
     </item>
   </channel>
 </rss>
