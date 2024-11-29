@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>所有文章 - XBruce Blog</title>
-    <link>https://ansha886.github.io/posts/</link>
+    <title>AIGC - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/aigc/</link>
     <description>XBruce Blog</description>
     <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Tue, 26 Nov 2024 18:53:11 +0800</lastBuildDate>
-    <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Two First Post</title>
-      <link>https://ansha886.github.io/posts/e83b1a8/</link>
-      <pubDate>Tue, 26 Nov 2024 18:53:11 +0800</pubDate>
-      <guid>https://ansha886.github.io/posts/e83b1a8/</guid>
-      <category domain="https://ansha886.github.io/categories/draft/">Draft</category>
-      <description>Two First Post</description>
-    </item>
+    <lastBuildDate>Tue, 26 Nov 2024 18:10:25 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/aigc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一个基于AI的多代理研究助手项目：AI-Data-Analysis-MultiAgent</title>
       <link>https://ansha886.github.io/posts/ai-ai-data-analysis-multiagent-agent/</link>
