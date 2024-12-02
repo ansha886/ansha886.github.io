@@ -1,5 +1,8 @@
 # 一个基于AI的多代理研究助手项目：AI-Data-Analysis-MultiAgent
 
+&lt;!--more--&gt;
+酷！一个基于AI的多代理研究助手项目：AI-Data-Analysis-MultiAgent，这个agent团队可以自动化完成数据分析、生成研究假设、图表可视化、报告生成等整个流程任务所有agent互相配合，有专门的&#34;笔记助手&#34;记录所有进展，有质量审查，它们可以根据不同任务自动调整工作方式，具备逻辑思维。
+&lt;!--more--&gt;
 
 **酷！一个基于AI的多代理研究助手项目：AI-Data-Analysis-MultiAgent，这个agent团队可以自动化完成数据分析、生成研究假设、图表可视化、报告生成等整个流程任务**
 
