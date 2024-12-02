@@ -11,6 +11,17 @@
 
 ![img](https://raw.githubusercontent.com/ansha886/blog-images/master/image.webp)
 
+**构建实时网络代理和浏览器自动化的一个开源工具：steel-browser，它提供了完整的REST API接口来控制浏览器操作**
+
+可以基于它构建比如，AI网页助手、数据采集工具、自动化表格工具等，它可以执行打开网页、截图、下载文件等任务
+
+开箱即用，支持无头浏览器，支持Docker，支持反检测
+
+支持基本所有常见的网页操作
+
+支持并发处理，可以处理大规模任务
+
+自动处理异常和恢复
 
 ---
 
