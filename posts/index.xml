@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Tue, 26 Nov 2024 18:10:25 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 20:17:20 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿里等的虚拟试穿项目：BooW-VTON，它解决了在背景复杂多样的真实环境中进行高质量虚拟试穿的问题</title>
+      <link>https://ansha886.github.io/posts/boow-vton/</link>
+      <pubDate>Mon, 02 Dec 2024 20:17:20 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/boow-vton/</guid>
+      <category domain="https://ansha886.github.io/categories/draft/">Draft</category>
+      <description>阿里等的虚拟试穿项目：BooW-VTON，它解决了在背景复杂多样的真实环境中进行高质量虚拟试穿的问题</description>
+    </item>
     <item>
       <title>一个基于AI的多代理研究助手项目：AI-Data-Analysis-MultiAgent</title>
       <link>https://ansha886.github.io/posts/ai-data-analysis-multiagent-agent/</link>
