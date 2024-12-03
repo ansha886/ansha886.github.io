@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LLM - 分类 - XBruce Blog</title>
-    <link>https://ansha886.github.io/categories/llm/</link>
+    <title>AIAgent - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/aiagent/</link>
     <description>@xbruce&#39;s works</description>
     <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
     <lastBuildDate>Tue, 03 Dec 2024 09:11:16 +0800</lastBuildDate>
-    <atom:link href="https://ansha886.github.io/categories/llm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ansha886.github.io/tags/aiagent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>screen-to-code 一款使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码的简单工具。</title>
       <link>https://ansha886.github.io/posts/screenshot-to-code/</link>
@@ -17,14 +17,6 @@
       <guid>https://ansha886.github.io/posts/screenshot-to-code/</guid>
       <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
       <description>screenshot-to-code 一款使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码的简单工具。现在支持 Claude Sonnet 3.5 和 GPT-4o！</description>
-    </item>
-    <item>
-      <title>一个基于AI的多代理研究助手项目：AI-Data-Analysis-MultiAgent</title>
-      <link>https://ansha886.github.io/posts/ai-data-analysis-multiagent-agent/</link>
-      <pubDate>Tue, 26 Nov 2024 18:10:25 +0800</pubDate><author>licheng0601@gmail.com (Bruce)</author>
-      <guid>https://ansha886.github.io/posts/ai-data-analysis-multiagent-agent/</guid>
-      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
-      <description>AI-Data-Analysis-MultiAgent是一个基于AI的多代理研究助手项目，能够自动化完成数据分析、生成研究假设、图表可视化和报告生成等任务。该项目利用LangChain、OpenAI和LangGraph构建，所有代理协作并具备逻辑思维，适用于报告、市场调研、数据分析和学术研究等领域。</description>
     </item>
   </channel>
 </rss>

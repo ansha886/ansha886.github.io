@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ansha886.github.io/tags/ai/</loc>
+    <lastmod>2024-12-03T09:11:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/aiagent/</loc>
+    <lastmod>2024-12-03T09:11:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ansha886.github.io/categories/</loc>
     <lastmod>2024-12-03T09:11:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ansha886.github.io/tags/draft/</loc>
-    <lastmod>2024-12-03T09:11:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/categories/draft/</loc>
+    <loc>https://ansha886.github.io/categories/llm/</loc>
     <lastmod>2024-12-03T09:11:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -43,32 +49,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ansha886.github.io/posts/boow-vton/</loc>
+    <loc>https://ansha886.github.io/tags/agent/</loc>
     <lastmod>2024-12-02T20:17:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ansha886.github.io/tags/agent/</loc>
-    <lastmod>2024-11-26T18:10:25+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/tags/ai/</loc>
-    <lastmod>2024-11-26T18:10:25+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://ansha886.github.io/tags/aigc/</loc>
-    <lastmod>2024-11-26T18:10:25+08:00</lastmod>
+    <lastmod>2024-12-02T20:17:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ansha886.github.io/categories/llm/</loc>
-    <lastmod>2024-11-26T18:10:25+08:00</lastmod>
+    <loc>https://ansha886.github.io/categories/draft/</loc>
+    <lastmod>2024-12-02T20:17:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/boow-vton/</loc>
+    <lastmod>2024-12-02T20:17:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
