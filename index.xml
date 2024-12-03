@@ -11,10 +11,10 @@
     <lastBuildDate>Tue, 03 Dec 2024 09:11:16 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024m12d3h9m11s16</title>
-      <link>https://ansha886.github.io/posts/ac0e99a/</link>
+      <title>screen-to-code 一款使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码的简单工具。</title>
+      <link>https://ansha886.github.io/posts/screenshot-to-code/</link>
       <pubDate>Tue, 03 Dec 2024 09:11:16 +0800</pubDate>
-      <guid>https://ansha886.github.io/posts/ac0e99a/</guid>
+      <guid>https://ansha886.github.io/posts/screenshot-to-code/</guid>
       <category domain="https://ansha886.github.io/categories/draft/">Draft</category>
       <description>&lt;p&gt;这也太厉害了吧！screenshot-to-code 是一款使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码的简单工具。现在支持 Claude Sonnet 3.5 和 GPT-4o！&lt;/p&gt;&#xA;&lt;!--more--&gt;&#xA;&lt;p&gt;支持的堆栈：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML + Tailwind&lt;/li&gt;&#xA;&lt;li&gt;HTML + CSS&lt;/li&gt;&#xA;&lt;li&gt;React + Tailwind&lt;/li&gt;&#xA;&lt;li&gt;Vue + Tailwind&lt;/li&gt;&#xA;&lt;li&gt;引导&lt;/li&gt;&#xA;&lt;li&gt;Ionic + Tailwind&lt;/li&gt;&#xA;&lt;li&gt;SVG&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;支持的 AI 模型：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Claude Sonnet 3.5-最佳模型！&lt;/li&gt;&#xA;&lt;li&gt;GPT-4o——也推荐！&lt;/li&gt;&#xA;&lt;li&gt;DALL-E 3 或 Flux Schnell（使用 Replicate）用于图像生成&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;效果：&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/screen-to-code.gif&#34; alt=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/screen-to-code.gif&#34; srcset=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/screen-to-code.gif?size=small, https://raw.githubusercontent.com/ansha886/blog-images/master/screen-to-code.gif?size=medium 1.5x, https://raw.githubusercontent.com/ansha886/blog-images/master/screen-to-code.gif?size=large 2x&#34; data-title=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/screen-to-code.gif&#34; style=&#34;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;</description>
     </item>
