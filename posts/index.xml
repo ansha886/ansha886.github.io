@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Tue, 03 Dec 2024 09:11:16 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 10:43:04 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>音频驱动说话人肖像视频生成模型：FLOAT，保真度很高，且支持情感增强和控制，能调节情感表现的强度</title>
+      <link>https://ansha886.github.io/posts/float/</link>
+      <pubDate>Wed, 04 Dec 2024 10:43:04 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/float/</guid>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <description>&lt;p&gt;&lt;strong&gt;这个效果非常可以，音频驱动说话人肖像视频生成模型：FLOAT，保真度很高，且支持情感增强和控制，能调节情感表现的强度&lt;/strong&gt;&#xA;一张源人物肖像图片+驱动音频，生成可以包含情感表现的面部动作并与音频同步的说话人视频它解决了时间连续的视频生成、由于迭代采样导致速度慢，这两个关键问题&lt;/p&gt;</description>
+    </item>
     <item>
       <title>screen-to-code 一款使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码的简单工具。</title>
       <link>https://ansha886.github.io/posts/screenshot-to-code/</link>
@@ -23,7 +31,7 @@
       <link>https://ansha886.github.io/posts/boow-vton/</link>
       <pubDate>Mon, 02 Dec 2024 20:17:20 +0800</pubDate>
       <guid>https://ansha886.github.io/posts/boow-vton/</guid>
-      <category domain="https://ansha886.github.io/categories/draft/">Draft</category>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
       <description>阿里等的虚拟试穿项目：BooW-VTON，它解决了在背景复杂多样的真实环境中进行高质量虚拟试穿的问题</description>
     </item>
     <item>
