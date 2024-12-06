@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Wed, 04 Dec 2024 10:43:04 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 09:12:00 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一个可以写React Native应用的AI助手：Cali</title>
+      <link>https://ansha886.github.io/posts/react-native-ai-cali/</link>
+      <pubDate>Fri, 06 Dec 2024 09:12:00 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/react-native-ai-cali/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;Cali是一个AI助手，可以用日常语言描述需求，自动构建运行iOS/Android的React Native应用，管理设备，处理npm包和CocoaPods依赖，并智能搜索React Native库。它可以独立使用，也可以与Vercel AI SDK、Claude、Zed等集成。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>音频驱动说话人肖像视频生成模型：FLOAT，保真度很高，且支持情感增强和控制，能调节情感表现的强度</title>
       <link>https://ansha886.github.io/posts/float/</link>
