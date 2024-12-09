@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Fri, 06 Dec 2024 09:12:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 11:20:53 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta刚刚发布了其最新模型：Llama 3.3-70B，性能提升，输入成本比Llama 3.1 405B降低10倍！指令遵循能力超过了GPT-4o、Claude 3.5 Sonnet</title>
+      <link>https://ansha886.github.io/posts/804e6b2/</link>
+      <pubDate>Mon, 09 Dec 2024 11:20:53 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/804e6b2/</guid>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <description>&lt;p&gt;Meta发布了最新的Llama 3.3-70B模型，具有70亿参数和128K上下文，输入成本比Llama 3.1 405B降低10倍，指令遵循能力超过GPT-4o和Claude 3.5。该模型支持英语、德语、法语等8种语言，适合多语言对话场景，具备良好的性价比，适用于构建聊天机器人等应用。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Meta刚刚发布了其最新模型：Llama 3.3-70B，性能提升，输入成本比Llama 3.1 405B降低10倍！指令遵循能力超过了GPT-4o、Claude 3.5 Sonnet&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Llama 3.3-70B是一个预训练和指令调优的多语言LLM，专门针对多语言对话场景进行了优化&lt;/p&gt;&#xA;&lt;p&gt;1、70B参数，128K上下文 2、多语言，支持英语、德语、法语、意大利语、葡萄牙语、印地语、西班牙语泰语8种语言&lt;/p&gt;&#xA;&lt;p&gt;它的通用能力强，多语言支持好，某些指标不如Claude 3.5等模型，数学和推理上有提升空间，总的来说是一个具备性价比的模型，可以构建聊天机器人等。&lt;/p&gt;&#xA;&lt;p&gt;型号卡：&lt;a href=&#34;https://github.com/meta-llama/llama-models/blob/main/models/llama3_3/MODEL_CARD.md&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://github.com/meta-llama/llama-models/blob/main/models/llama3_3/MODEL_CARD.md&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;模型：&lt;a href=&#34;https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Llama%203.3&#34; alt=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Llama%203.3&#34; srcset=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Llama%203.3?size=small, https://raw.githubusercontent.com/ansha886/blog-images/master/Llama%203.3?size=medium 1.5x, https://raw.githubusercontent.com/ansha886/blog-images/master/Llama%203.3?size=large 2x&#34; data-title=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Llama%203.3&#34; class=&#34;suffix-invalid suffix-invalid__small suffix-invalid__large&#34; style=&#34;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>一个可以写React Native应用的AI助手：Cali</title>
       <link>https://ansha886.github.io/posts/react-native-ai-cali/</link>
