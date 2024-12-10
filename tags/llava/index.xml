@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLaVA - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/llava/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Mon, 09 Dec 2024 14:04:26 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/llava/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>北大多模态Video-LLaVA模型：秒懂视频笑点的视觉语言大模型</title>
+      <link>https://ansha886.github.io/posts/video-llava/</link>
+      <pubDate>Mon, 09 Dec 2024 14:04:26 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/video-llava/</guid>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <description>&lt;p&gt;Video-LLaVA模型的核心在于其能够提前将图片和视频的特征绑定到统一的特征空间中，这一策略极大地促进了模型对视觉信息的理解和处理能力。与传统的视觉语言模型相比，Video-LLaVA通过联合图片和视频的训练与指令微调，大幅提高了计算效率和模型性能。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

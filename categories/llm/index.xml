@@ -8,13 +8,29 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 09 Dec 2024 11:20:53 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 09:09:55 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/llm/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>这也太厉害了吧！Google最新的的量子计算芯片出来了：Willow！</title>
+      <link>https://ansha886.github.io/posts/google-willow/</link>
+      <pubDate>Tue, 10 Dec 2024 09:09:55 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/google-willow/</guid>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <description>&lt;p&gt;&lt;strong&gt;太牛了！Google最新的的量子计算芯片出来了：Willow！&lt;/strong&gt;&#xA;Willow用时不到五分钟完成了一个标准基准计算，而当今最快的超级计算机需要10^25年，远远超过了宇宙的年龄&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>北大多模态Video-LLaVA模型：秒懂视频笑点的视觉语言大模型</title>
+      <link>https://ansha886.github.io/posts/video-llava/</link>
+      <pubDate>Mon, 09 Dec 2024 14:04:26 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/video-llava/</guid>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <description>&lt;p&gt;Video-LLaVA模型的核心在于其能够提前将图片和视频的特征绑定到统一的特征空间中，这一策略极大地促进了模型对视觉信息的理解和处理能力。与传统的视觉语言模型相比，Video-LLaVA通过联合图片和视频的训练与指令微调，大幅提高了计算效率和模型性能。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Meta刚刚发布了其最新模型：Llama 3.3-70B，性能提升，输入成本比Llama 3.1 405B降低10倍！指令遵循能力超过了GPT-4o、Claude 3.5 Sonnet</title>
-      <link>https://ansha886.github.io/posts/804e6b2/</link>
+      <link>https://ansha886.github.io/posts/llama3point3/</link>
       <pubDate>Mon, 09 Dec 2024 11:20:53 +0800</pubDate>
-      <guid>https://ansha886.github.io/posts/804e6b2/</guid>
+      <guid>https://ansha886.github.io/posts/llama3point3/</guid>
       <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
       <description>&lt;p&gt;Meta发布了最新的Llama 3.3-70B模型，具有70亿参数和128K上下文，输入成本比Llama 3.1 405B降低10倍，指令遵循能力超过GPT-4o和Claude 3.5。该模型支持英语、德语、法语等8种语言，适合多语言对话场景，具备良好的性价比，适用于构建聊天机器人等应用。&lt;/p&gt;</description>
     </item>

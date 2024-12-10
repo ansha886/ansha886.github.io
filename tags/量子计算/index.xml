@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>量子计算 - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Tue, 10 Dec 2024 09:09:55 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>这也太厉害了吧！Google最新的的量子计算芯片出来了：Willow！</title>
+      <link>https://ansha886.github.io/posts/google-willow/</link>
+      <pubDate>Tue, 10 Dec 2024 09:09:55 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/google-willow/</guid>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <description>&lt;p&gt;&lt;strong&gt;太牛了！Google最新的的量子计算芯片出来了：Willow！&lt;/strong&gt;&#xA;Willow用时不到五分钟完成了一个标准基准计算，而当今最快的超级计算机需要10^25年，远远超过了宇宙的年龄&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
