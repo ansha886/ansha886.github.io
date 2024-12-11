@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agentless - 分类 - XBruce Blog</title>
+    <link>https://ansha886.github.io/categories/agentless/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Wed, 11 Dec 2024 21:58:48 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/categories/agentless/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一个低成本高性能的AI修bug工具：Agentless，采用了一种无代理的方式，自动解决软件开发问题</title>
+      <link>https://ansha886.github.io/posts/ai-bug-agentless/</link>
+      <pubDate>Wed, 11 Dec 2024 21:58:48 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/ai-bug-agentless/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <category domain="https://ansha886.github.io/categories/agentless/">Agentless</category>
+      <description>&lt;p&gt;Agentless是一款低成本高性能的AI修bug工具，采用无代理的方式，通过定位、修复和补丁验证的三步流程自动解决软件开发问题。在SWE-bench Lite上表现出色，成为所有开源方案中的最高性能工具。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
