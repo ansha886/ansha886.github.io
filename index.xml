@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Wed, 11 Dec 2024 15:39:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 15:48:49 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>可以把各种文件类型转成Markdown的一个工具：E2M，每种格式有专门的解析器和转换器，支持自定义配置</title>
+      <link>https://ansha886.github.io/posts/markdown-e2m/</link>
+      <pubDate>Wed, 11 Dec 2024 15:48:49 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/markdown-e2m/</guid>
+      <category domain="https://ansha886.github.io/categories/tools/">Tools</category>
+      <description>&lt;p&gt;&lt;strong&gt;可以把各种文件转成Markdown的一个工具：E2M，每种格式有专门的解析器和转换器，支持自定义配置&lt;/strong&gt;支持doc、docx、epub、html、htm、url、pdf、ppt、pptx、mp3、m4a等用Parser解析器从文件中提取文本和图像，用Converter转换器把提取的内容转为Markdown.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;可以把各种文件转成Markdown的一个工具：E2M，每种格式有专门的解析器和转换器，支持自定义配置&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;支持doc、docx、epub、html、htm、url、pdf、ppt、pptx、mp3、m4a等&lt;/p&gt;&#xA;&lt;p&gt;用Parser解析器从文件中提取文本和图像，用Converter转换器把提取的内容转为Markdown&lt;/p&gt;&#xA;&lt;p&gt;github：&lt;a href=&#34;https://github.com/wisupai/e2m&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://github.com/wisupai/e2m&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/E2M.webp&#34; alt=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/E2M.webp&#34; srcset=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/E2M.webp?size=small, https://raw.githubusercontent.com/ansha886/blog-images/master/E2M.webp?size=medium 1.5x, https://raw.githubusercontent.com/ansha886/blog-images/master/E2M.webp?size=large 2x&#34; data-title=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/E2M.webp&#34; style=&#34;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DeepSeek刚刚开源了了DeepSeek V2.5的最终版微调模型： DeepSeek-V2.5-1210，新增联网搜索功能</title>
       <link>https://ansha886.github.io/posts/deepseek-v2-5-model/</link>
