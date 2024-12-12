@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Wed, 11 Dec 2024 21:58:48 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 09:16:07 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Show Lab和微软开源的一个基于Qwen2VL架构开发的视觉-语言-动作多模态AI模型：ShowUI，它可以识别和理解用户界面元素，执行比如，点击、输入、选择、滚动等操作，实现GUI自动化</title>
+      <link>https://ansha886.github.io/posts/show-lab-qwen2vl-ai/</link>
+      <pubDate>Thu, 12 Dec 2024 09:16:07 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/show-lab-qwen2vl-ai/</guid>
+      <category domain="https://ansha886.github.io/categories/aigc/">AIGC</category>
+      <description>&lt;p&gt;Show Lab和微软开源的一个基于Qwen2VL架构开发的视觉-语言-动作多模态AI模型：ShowUI，它可以识别和理解用户界面元素，执行比如，点击、输入、选择、滚动等操作，实现GUI自动化。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>一个低成本高性能的AI修bug工具：Agentless，采用了一种无代理的方式，自动解决软件开发问题</title>
       <link>https://ansha886.github.io/posts/ai-bug-agentless/</link>
