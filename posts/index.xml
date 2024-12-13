@@ -8,8 +8,17 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Thu, 12 Dec 2024 09:16:07 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 09:20:41 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一款本地自动化研究总结助手：research-rabbit，可以自动深入研究任何主题，提供带有源引用的完整研究报告</title>
+      <link>https://ansha886.github.io/posts/de241dc/</link>
+      <pubDate>Fri, 13 Dec 2024 09:20:41 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/de241dc/</guid>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <category domain="https://ansha886.github.io/categories/aigc/">AIGC</category>
+      <description>&lt;p&gt;一款本地自动化研究/总结助手：research-rabbit，可以自动深入研究任何主题，提供带有源引用的完整研究报告&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Show Lab和微软开源的一个基于Qwen2VL架构开发的视觉-语言-动作多模态AI模型：ShowUI，它可以识别和理解用户界面元素，执行比如，点击、输入、选择、滚动等操作，实现GUI自动化</title>
       <link>https://ansha886.github.io/posts/show-lab-qwen2vl-ai/</link>
