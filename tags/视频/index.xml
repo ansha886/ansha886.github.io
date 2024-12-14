@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>视频 - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/%E8%A7%86%E9%A2%91/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Sat, 14 Dec 2024 11:40:31 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/%E8%A7%86%E9%A2%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>商学合作，浙大联合快手等的多相机视频生成系统：SynCamMaster，可以从不同视角同步生成视频内容，并保持多个视角下视频内容的一致性</title>
+      <link>https://ansha886.github.io/posts/syncammaster/</link>
+      <pubDate>Sat, 14 Dec 2024 11:40:31 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/syncammaster/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;商学合作，浙大联合快手等的多相机视频生成系统：SynCamMaster，可以从不同视角同步生成视频内容，并保持多个视角下视频内容的一致性&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
