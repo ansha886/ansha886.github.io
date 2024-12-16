@@ -8,8 +8,17 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 16 Dec 2024 09:12:54 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 14:52:01 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型</title>
+      <link>https://ansha886.github.io/posts/vall-e-x/</link>
+      <pubDate>Mon, 16 Dec 2024 14:52:01 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/vall-e-x/</guid>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;VALL-E X 是 Microsoft 提出的一个令人惊叹的多语言文本转语音 (TTS) 模型，虽然 Microsoft 最初在其研究论文中发布了该模型，但他们没有发布任何代码或预训练模型，团队接受了重现结果的挑战。训练我们自己的模型。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>FreeStyle自由！西工大和微软等出的一个说唱(Rap)生成模型：Freestyler，可以根据歌词和伴奏直接生成说唱人声</title>
       <link>https://ansha886.github.io/posts/freestyler/</link>
