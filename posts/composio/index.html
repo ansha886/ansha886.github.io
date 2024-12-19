@@ -5,45 +5,44 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
     <meta name="robots" content="noodp" />
-    <title>VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型 - XBruce Blog</title><meta name="author" content="">
-<meta name="description" content="VALL-E X 是 Microsoft 提出的一个令人惊叹的多语言文本转语音 (TTS) 模型，虽然 Microsoft 最初在其研究论文中发布了该模型，但他们没有发布任何代码或预训练模型，团队接受了重现结果的挑战。训练我们自己的模型。"><meta name="keywords" content='TTS, AI, 语音'>
-  <meta itemprop="name" content="VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型">
-  <meta itemprop="description" content="VALL-E X 是 Microsoft 提出的一个令人惊叹的多语言文本转语音 (TTS) 模型，虽然 Microsoft 最初在其研究论文中发布了该模型，但他们没有发布任何代码或预训练模型，团队接受了重现结果的挑战。训练我们自己的模型。">
-  <meta itemprop="datePublished" content="2024-12-16T14:52:01+08:00">
-  <meta itemprop="dateModified" content="2024-12-16T14:52:01+08:00">
-  <meta itemprop="wordCount" content="26">
-  <meta itemprop="keywords" content="TTS,AI,语音"><meta property="og:url" content="https://ansha886.github.io/posts/vall-e-x/">
+    <title>Composio：一款面向AI智能体的生产级工具集 - XBruce Blog</title><meta name="author" content="">
+<meta name="description" content="通过Composio，轻松为你的AI智能体集成高质量工具和服务，无需操心认证、准确性和可靠性——一行代码即可搞定！"><meta name="keywords" content='工具, AI'>
+  <meta itemprop="name" content="Composio：一款面向AI智能体的生产级工具集">
+  <meta itemprop="description" content="通过Composio，轻松为你的AI智能体集成高质量工具和服务，无需操心认证、准确性和可靠性——一行代码即可搞定！">
+  <meta itemprop="datePublished" content="2024-12-19T11:08:45+08:00">
+  <meta itemprop="dateModified" content="2024-12-19T11:08:45+08:00">
+  <meta itemprop="wordCount" content="48">
+  <meta itemprop="keywords" content="工具,AI"><meta property="og:url" content="https://ansha886.github.io/posts/composio/">
   <meta property="og:site_name" content="XBruce Blog">
-  <meta property="og:title" content="VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型">
-  <meta property="og:description" content="VALL-E X 是 Microsoft 提出的一个令人惊叹的多语言文本转语音 (TTS) 模型，虽然 Microsoft 最初在其研究论文中发布了该模型，但他们没有发布任何代码或预训练模型，团队接受了重现结果的挑战。训练我们自己的模型。">
+  <meta property="og:title" content="Composio：一款面向AI智能体的生产级工具集">
+  <meta property="og:description" content="通过Composio，轻松为你的AI智能体集成高质量工具和服务，无需操心认证、准确性和可靠性——一行代码即可搞定！">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2024-12-16T14:52:01+08:00">
-    <meta property="article:modified_time" content="2024-12-16T14:52:01+08:00">
-    <meta property="article:tag" content="TTS">
+    <meta property="article:published_time" content="2024-12-19T11:08:45+08:00">
+    <meta property="article:modified_time" content="2024-12-19T11:08:45+08:00">
+    <meta property="article:tag" content="工具">
     <meta property="article:tag" content="AI">
-    <meta property="article:tag" content="语音">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型">
-  <meta name="twitter:description" content="VALL-E X 是 Microsoft 提出的一个令人惊叹的多语言文本转语音 (TTS) 模型，虽然 Microsoft 最初在其研究论文中发布了该模型，但他们没有发布任何代码或预训练模型，团队接受了重现结果的挑战。训练我们自己的模型。">
+  <meta name="twitter:title" content="Composio：一款面向AI智能体的生产级工具集">
+  <meta name="twitter:description" content="通过Composio，轻松为你的AI智能体集成高质量工具和服务，无需操心认证、准确性和可靠性——一行代码即可搞定！">
 <meta name="application-name" content="XBruce">
-<meta name="apple-mobile-web-app-title" content="XBruce"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="icon" href="/images/logo.svg"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="canonical" type="text/html" href="https://ansha886.github.io/posts/vall-e-x/" title="VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型 - XBruce Blog" /><link rel="prev" type="text/html" href="https://ansha886.github.io/posts/freestyler/" title="FreeStyle自由！西工大和微软等出的一个说唱(Rap)生成模型：Freestyler，可以根据歌词和伴奏直接生成说唱人声" /><link rel="next" type="text/html" href="https://ansha886.github.io/posts/diffhdr/" title="DiffHDR是一个用于修复历史文献的AI框架，能够预测并还原损坏文献的原始外观。" /><link rel="alternate" type="text/markdown" href="https://ansha886.github.io/posts/vall-e-x/index.md" title="VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型 - XBruce Blog"><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/all.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+<meta name="apple-mobile-web-app-title" content="XBruce"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="icon" href="/images/logo.svg"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="canonical" type="text/html" href="https://ansha886.github.io/posts/composio/" title="Composio：一款面向AI智能体的生产级工具集 - XBruce Blog" /><link rel="prev" type="text/html" href="https://ansha886.github.io/posts/diffhdr/" title="DiffHDR是一个用于修复历史文献的AI框架，能够预测并还原损坏文献的原始外观。" /><link rel="alternate" type="text/markdown" href="https://ansha886.github.io/posts/composio/index.md" title="Composio：一款面向AI智能体的生产级工具集 - XBruce Blog"><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/all.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "BlogPosting",
-    "headline": "VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型",
+    "headline": "Composio：一款面向AI智能体的生产级工具集",
     "inLanguage": "en",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https:\/\/ansha886.github.io\/posts\/vall-e-x\/"
-    },"genre": "posts","keywords": "TTS, AI, 语音","wordcount":  26 ,
-    "url": "https:\/\/ansha886.github.io\/posts\/vall-e-x\/","datePublished": "2024-12-16T14:52:01+08:00","dateModified": "2024-12-16T14:52:01+08:00","publisher": {
+      "@id": "https:\/\/ansha886.github.io\/posts\/composio\/"
+    },"genre": "posts","keywords": "工具, AI","wordcount":  48 ,
+    "url": "https:\/\/ansha886.github.io\/posts\/composio\/","datePublished": "2024-12-19T11:08:45+08:00","dateModified": "2024-12-19T11:08:45+08:00","publisher": {
       "@type": "Organization",
-      "name": ""},"description": "VALL-E X 是 Microsoft 提出的一个令人惊叹的多语言文本转语音 (TTS) 模型，虽然 Microsoft 最初在其研究论文中发布了该模型，但他们没有发布任何代码或预训练模型，团队接受了重现结果的挑战。训练我们自己的模型。"
+      "name": ""},"description": "通过Composio，轻松为你的AI智能体集成高质量工具和服务，无需操心认证、准确性和可靠性——一行代码即可搞定！"
   }
   </script><script src="/js/head/color-scheme.min.js"></script></head>
   <body data-header-desktop="sticky" data-header-mobile="auto"><div class="wrapper" data-page-style="normal"><header class="desktop animate__faster" id="header-desktop">
@@ -110,35 +109,56 @@
   </div><main class="container"><aside class="aside-collection animate__animated animate__fadeIn animate__faster" aria-label="合集"></aside>
 
   <article class="page single">
-    <div class="header"><h1 class="single-title animate__animated animate__flipInX"><span title="转载" class="icon-repost"><i class="fa-solid fa-share fa-fw" aria-hidden="true"></i></span><span>VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型</span>
+    <div class="header"><h1 class="single-title animate__animated animate__flipInX"><span title="转载" class="icon-repost"><i class="fa-solid fa-share fa-fw" aria-hidden="true"></i></span><span>Composio：一款面向AI智能体的生产级工具集</span>
       </h1></div><div class="post-meta">
       <div class="post-meta-line"><span class="post-author"><span class="author"><i class="fa-solid fa-user-circle" aria-hidden="true"></i>
-      Anonymous</span></span><span class="post-included-in">&nbsp;收录于 <a href="/categories/llm/" class="post-category" title="分类 - LLM"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> LLM</a>&ensp;<a href="/categories/ai/" class="post-category" title="分类 - AI"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> AI</a></span></div><div class="post-meta-line"><span title="发布于 2024-12-16 14:52:01"><i class="fa-solid fa-calendar-days fa-fw me-1" aria-hidden="true"></i><time datetime="2024-12-16">2024-12-16</time></span>&nbsp;<span title="26 字"><i class="fa-solid fa-pencil-alt fa-fw me-1" aria-hidden="true"></i>约 100 字</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw me-1" aria-hidden="true"></i>预计阅读 1 分钟</span>&nbsp;<span id="busuanzi_container_page_pv" class="busuanzi_visitors comment-visitors" data-flag-title="VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型"><i class="fa-regular fa-eye fa-fw me-1" aria-hidden="true"></i><span id="busuanzi_value_page_pv">-</span>&nbsp;次阅读
+      Anonymous</span></span><span class="post-included-in">&nbsp;收录于 <a href="/categories/ai/" class="post-category" title="分类 - AI"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> AI</a></span></div><div class="post-meta-line"><span title="发布于 2024-12-19 11:08:45"><i class="fa-solid fa-calendar-days fa-fw me-1" aria-hidden="true"></i><time datetime="2024-12-19">2024-12-19</time></span>&nbsp;<span title="48 字"><i class="fa-solid fa-pencil-alt fa-fw me-1" aria-hidden="true"></i>约 100 字</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw me-1" aria-hidden="true"></i>预计阅读 1 分钟</span>&nbsp;<span id="busuanzi_container_page_pv" class="busuanzi_visitors comment-visitors" data-flag-title="Composio：一款面向AI智能体的生产级工具集"><i class="fa-regular fa-eye fa-fw me-1" aria-hidden="true"></i><span id="busuanzi_value_page_pv">-</span>&nbsp;次阅读
           </span>&nbsp;</div>
-    </div><div class="content" id="content"><p>VALL-E X 是 Microsoft 提出的一个令人惊叹的多语言文本转语音 (TTS) 模型，虽然 Microsoft 最初在其研究论文中发布了该模型，但他们没有发布任何代码或预训练模型，团队接受了重现结果的挑战。训练我们自己的模型。</p>
-<p>VALL-E X 是 Microsoft 提出的一个令人惊叹的多语言文本转语音 (TTS) 模型，虽然 Microsoft 最初在其研究论文中发布了该模型，但他们没有发布任何代码或预训练模型，团队接受了重现结果的挑战。训练我们自己的模型。我们很高兴与社区分享我们训练好的 VALL-E X 模型，让大家体验下一代 TTS 的强大功能 🎧</p>
-<p>github: <a href="https://github.com/Plachtaa/VALL-E-X"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/Plachtaa/VALL-E-X</a></p>
-<p><img loading="lazy" src="https://raw.githubusercontent.com/ansha886/blog-images/master/vallex_framework.jpg" alt="https://raw.githubusercontent.com/ansha886/blog-images/master/vallex_framework.jpg" srcset="https://raw.githubusercontent.com/ansha886/blog-images/master/vallex_framework.jpg?size=small, https://raw.githubusercontent.com/ansha886/blog-images/master/vallex_framework.jpg?size=medium 1.5x, https://raw.githubusercontent.com/ansha886/blog-images/master/vallex_framework.jpg?size=large 2x" data-title="https://raw.githubusercontent.com/ansha886/blog-images/master/vallex_framework.jpg" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p></div><div class="post-footer" id="post-footer">
+    </div><div class="content" id="content"><p>通过Composio，轻松为你的AI智能体集成高质量工具和服务，无需操心认证、准确性和可靠性——一行代码即可搞定！</p>
+<p>🔥 核心功能</p>
+<p>• 100+ 强大工具支持，涵盖多个领域：<br>
+• 软件类：GitHub、Notion、Gmail、Slack、HubSpot、Salesforce等90+工具。<br>
+• 操作系统类：模拟点击、输入文本、剪贴板操作等。<br>
+• 浏览器类：智能搜索、截图、下载、上传等功能。<br>
+• 搜索类：Google Search、Perplexity、Tavily、Exa等多种搜索引擎集成。<br>
+• 开发工具：Ngrok、数据库、Redis、Vercel、Git等。<br>
+• RAG功能：即时检索增强生成（RAG），支持任意类型数据处理。<br>
+• 框架兼容性强：与主流AI智能体框架无缝集成：<br>
+• OpenAI、Groq（兼容OpenAI API）、Claude、LlamaIndex、LangChain、CrewAI、Autogen、Gemini、Julep等。<br>
+• 统一授权管理：内置六大认证协议，轻松实现授权：<br>
+• 支持Access Token、Refresh Token、OAuth、API Key、JWT等，简化接入流程。<br>
+• 高准确性：优化工具设计，提升40%+ 智能体工具调用的准确率。<br>
+• 可嵌入 &amp; 可扩展：<br>
+• 可嵌入：支持后端集成，统一管理认证和工具，提供稳定一致的用户体验。<br>
+• 可扩展：轻松添加新的工具、框架和认证协议，灵活满足业务需求。</p>
+<p>💡 技术亮点</p>
+<ol>
+<li>一行代码集成：快速接入，简化开发流程。</li>
+<li>高度自定义：适配不同框架，按需组合工具。</li>
+<li>高性能与稳定性：生产级设计，确保工具调用的可靠性和响应速度。</li>
+<li>开发者友好：详细文档与示例，助力快速上手。</li>
+</ol>
+<p><img loading="lazy" src="https://raw.githubusercontent.com/ansha886/blog-images/master/Composio.gif" alt="https://raw.githubusercontent.com/ansha886/blog-images/master/Composio.gif" srcset="https://raw.githubusercontent.com/ansha886/blog-images/master/Composio.gif?size=small, https://raw.githubusercontent.com/ansha886/blog-images/master/Composio.gif?size=medium 1.5x, https://raw.githubusercontent.com/ansha886/blog-images/master/Composio.gif?size=large 2x" data-title="https://raw.githubusercontent.com/ansha886/blog-images/master/Composio.gif" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p></div><div class="post-footer" id="post-footer">
   <div class="post-info">
     <div class="post-info-line">
       <div class="post-info-mod">
-        <span title="更新于 2024-12-16 14:52:01">更新于 2024-12-16&nbsp;</span>
+        <span title="更新于 2024-12-19 11:08:45">更新于 2024-12-19&nbsp;</span>
       </div></div><div class="post-info-line">
-        <div class="post-info-md"><span><a href="/posts/vall-e-x/index.md" title="阅读原始文档" class="link-to-markdown">阅读原始文档</a></span></div>
+        <div class="post-info-md"><span><a href="/posts/composio/index.md" title="阅读原始文档" class="link-to-markdown">阅读原始文档</a></span></div>
         <div class="post-info-share">
-          <span><a href="javascript:void(0);" title="分享到 X" data-sharer="twitter" data-url="https://ansha886.github.io/posts/vall-e-x/" data-title="VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型" data-hashtags="TTS,AI,语音"><i class="fa-brands fa-x-twitter fa-fw" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 Facebook" data-sharer="facebook" data-url="https://ansha886.github.io/posts/vall-e-x/" data-hashtag="TTS"><i class="fa-brands fa-facebook-square fa-fw" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 微博" data-sharer="weibo" data-url="https://ansha886.github.io/posts/vall-e-x/" data-title="VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型"><i class="fa-brands fa-weibo fa-fw" aria-hidden="true"></i></a>
+          <span><a href="javascript:void(0);" title="分享到 X" data-sharer="twitter" data-url="https://ansha886.github.io/posts/composio/" data-title="Composio：一款面向AI智能体的生产级工具集" data-hashtags="工具,AI"><i class="fa-brands fa-x-twitter fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 Facebook" data-sharer="facebook" data-url="https://ansha886.github.io/posts/composio/" data-hashtag="工具"><i class="fa-brands fa-facebook-square fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 微博" data-sharer="weibo" data-url="https://ansha886.github.io/posts/composio/" data-title="Composio：一款面向AI智能体的生产级工具集"><i class="fa-brands fa-weibo fa-fw" aria-hidden="true"></i></a>
   </span>
         </div>
       </div></div>
 
   <div class="post-info-more">
-    <section class="post-tags"><i class="fa-solid fa-tags fa-fw me-1" aria-hidden="true"></i><a href="/tags/tts/" class="post-tag" title="标签 - TTS">TTS</a><a href="/tags/ai/" class="post-tag" title="标签 - AI">AI</a><a href="/tags/%E8%AF%AD%E9%9F%B3/" class="post-tag" title="标签 - 语音">语音</a></section>
+    <section class="post-tags"><i class="fa-solid fa-tags fa-fw me-1" aria-hidden="true"></i><a href="/tags/%E5%B7%A5%E5%85%B7/" class="post-tag" title="标签 - 工具">工具</a><a href="/tags/ai/" class="post-tag" title="标签 - AI">AI</a></section>
     <section>
       <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
     </section>
-  </div><div class="post-nav"><a href="/posts/freestyler/" class="post-nav-item" rel="prev" title="FreeStyle自由！西工大和微软等出的一个说唱(Rap)生成模型：Freestyler，可以根据歌词和伴奏直接生成说唱人声"><i class="fa-solid fa-angle-left fa-fw" aria-hidden="true"></i>FreeStyle自由！西工大和微软等出的一个说唱(Rap)生成模型：Freestyler，可以根据歌词和伴奏直接生成说唱人声</a><a href="/posts/diffhdr/" class="post-nav-item" rel="next" title="DiffHDR是一个用于修复历史文献的AI框架，能够预测并还原损坏文献的原始外观。">DiffHDR是一个用于修复历史文献的AI框架，能够预测并还原损坏文献的原始外观。<i class="fa-solid fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
+  </div><div class="post-nav"><a href="/posts/diffhdr/" class="post-nav-item" rel="prev" title="DiffHDR是一个用于修复历史文献的AI框架，能够预测并还原损坏文献的原始外观。"><i class="fa-solid fa-angle-left fa-fw" aria-hidden="true"></i>DiffHDR是一个用于修复历史文献的AI框架，能够预测并还原损坏文献的原始外观。</a></div>
 </div>
 </article>
 

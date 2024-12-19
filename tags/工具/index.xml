@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工具 - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/%E5%B7%A5%E5%85%B7/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Thu, 19 Dec 2024 11:08:45 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Composio：一款面向AI智能体的生产级工具集</title>
+      <link>https://ansha886.github.io/posts/composio/</link>
+      <pubDate>Thu, 19 Dec 2024 11:08:45 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/composio/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;通过Composio，轻松为你的AI智能体集成高质量工具和服务，无需操心认证、准确性和可靠性——一行代码即可搞定！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

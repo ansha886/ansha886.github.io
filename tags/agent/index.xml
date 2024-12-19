@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 02 Dec 2024 20:17:20 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 10:52:43 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/tags/agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DiffHDR是一个用于修复历史文献的AI框架，能够预测并还原损坏文献的原始外观。</title>
+      <link>https://ansha886.github.io/posts/diffhdr/</link>
+      <pubDate>Thu, 19 Dec 2024 10:52:43 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/diffhdr/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;一个修复历史文献的AI框架：DiffHDR，它可以预测并修复损坏的历史文献的原始外观支持修复缺失字符、破损纸张、墨迹褪色可以准确还原原始文字内容和风格修复区域与周围背景协调一致&lt;/p&gt;</description>
+    </item>
     <item>
       <title>阿里等的虚拟试穿项目：BooW-VTON，它解决了在背景复杂多样的真实环境中进行高质量虚拟试穿的问题</title>
       <link>https://ansha886.github.io/posts/boow-vton/</link>

@@ -8,8 +8,24 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 16 Dec 2024 14:52:01 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 11:08:45 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Composio：一款面向AI智能体的生产级工具集</title>
+      <link>https://ansha886.github.io/posts/composio/</link>
+      <pubDate>Thu, 19 Dec 2024 11:08:45 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/composio/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;通过Composio，轻松为你的AI智能体集成高质量工具和服务，无需操心认证、准确性和可靠性——一行代码即可搞定！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DiffHDR是一个用于修复历史文献的AI框架，能够预测并还原损坏文献的原始外观。</title>
+      <link>https://ansha886.github.io/posts/diffhdr/</link>
+      <pubDate>Thu, 19 Dec 2024 10:52:43 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/diffhdr/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;一个修复历史文献的AI框架：DiffHDR，它可以预测并修复损坏的历史文献的原始外观支持修复缺失字符、破损纸张、墨迹褪色可以准确还原原始文字内容和风格修复区域与周围背景协调一致&lt;/p&gt;</description>
+    </item>
     <item>
       <title>VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型</title>
       <link>https://ansha886.github.io/posts/vall-e-x/</link>
