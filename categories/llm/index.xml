@@ -8,8 +8,17 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 16 Dec 2024 14:52:01 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 10:48:27 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>清华和腾讯也开源了一款图像自动上色AI模型：ColorFlow，可以给黑白图像序列上色，特点是能保持角色特征的一致性</title>
+      <link>https://ansha886.github.io/posts/colorflow/</link>
+      <pubDate>Mon, 23 Dec 2024 10:48:27 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/colorflow/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <description>&lt;p&gt;清华和腾讯也开源了一款图像自动上色AI模型：ColorFlow，可以给黑白图像序列上色，特点是能保持角色特征的一致性&lt;/p&gt;</description>
+    </item>
     <item>
       <title>VALL-E X：微软最新开源多语言文本到语音合成和语音克隆模型</title>
       <link>https://ansha886.github.io/posts/vall-e-x/</link>
