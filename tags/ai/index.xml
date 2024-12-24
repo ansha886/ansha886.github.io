@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 23 Dec 2024 10:48:27 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 11:01:15 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IdentityRAG 是一款集成身份识别功能的 RAG 系统，专为企业客户管理设计。它结合了客户数据管理、身份识别与 AI 聊天功能，能够针对特定客户提供准确且具有上下文感知的回答，为企业提升客户管理效率提供了智能化支持。</title>
+      <link>https://ansha886.github.io/posts/identityrag/</link>
+      <pubDate>Tue, 24 Dec 2024 11:01:15 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/identityrag/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;IdentityRAG 是一款集成身份识别功能的 RAG 系统，专为企业客户管理设计。它结合了客户数据管理、身份识别与 AI 聊天功能，能够针对特定客户提供准确且具有上下文感知的回答，为企业提升客户管理效率提供了智能化支持。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>清华和腾讯也开源了一款图像自动上色AI模型：ColorFlow，可以给黑白图像序列上色，特点是能保持角色特征的一致性</title>
       <link>https://ansha886.github.io/posts/colorflow/</link>
