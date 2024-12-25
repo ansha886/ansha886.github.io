@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/video/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Wed, 25 Dec 2024 13:55:07 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>短视频内容制作神器！北大等高校开源的一个可控制的人物图像动画视频项目：DisPose，人物特征、服装细节等细节保持的很好，动作过度看起来比较自然流畅</title>
+      <link>https://ansha886.github.io/posts/dispose/</link>
+      <pubDate>Wed, 25 Dec 2024 13:55:07 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/dispose/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;短视频内容制作神器！北大等高校开源的一个可控制的人物图像动画视频项目：DisPose，人物特征、服装细节等细节保持的很好，动作过度看起来比较自然流畅&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

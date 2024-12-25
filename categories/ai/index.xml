@@ -8,8 +8,24 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Tue, 24 Dec 2024 11:01:15 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 13:55:07 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>短视频内容制作神器！北大等高校开源的一个可控制的人物图像动画视频项目：DisPose，人物特征、服装细节等细节保持的很好，动作过度看起来比较自然流畅</title>
+      <link>https://ansha886.github.io/posts/dispose/</link>
+      <pubDate>Wed, 25 Dec 2024 13:55:07 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/dispose/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;短视频内容制作神器！北大等高校开源的一个可控制的人物图像动画视频项目：DisPose，人物特征、服装细节等细节保持的很好，动作过度看起来比较自然流畅&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一个用Gemini多模态实时API和WebRTC结合构建的语音AI应用示例：gemini-webrtc-web-simple</title>
+      <link>https://ansha886.github.io/posts/gemini-webrtc-web-simple/</link>
+      <pubDate>Wed, 25 Dec 2024 13:52:49 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/gemini-webrtc-web-simple/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;&lt;strong&gt;一个用Gemini多模态实时API和WebRTC结合构建的语音AI应用示例：gemini-webrtc-web-simple&lt;/strong&gt; 低延迟、声音质量更好，对于需要处理实时媒体流的应用比较友好&lt;/p&gt;</description>
+    </item>
     <item>
       <title>IdentityRAG 是一款集成身份识别功能的 RAG 系统，专为企业客户管理设计。它结合了客户数据管理、身份识别与 AI 聊天功能，能够针对特定客户提供准确且具有上下文感知的回答，为企业提升客户管理效率提供了智能化支持。</title>
       <link>https://ansha886.github.io/posts/identityrag/</link>
