@@ -8,8 +8,17 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Wed, 11 Dec 2024 15:48:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 12:05:37 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pathway 是一款专为实时数据处理及 AI 应用场景打造的数据处理工具，支持实时数据处理、分析以及 LLM 和 RAG 数据的高效管理</title>
+      <link>https://ansha886.github.io/posts/pathway/</link>
+      <pubDate>Mon, 30 Dec 2024 12:05:37 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/pathway/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <category domain="https://ansha886.github.io/categories/tools/">Tools</category>
+      <description>&lt;p&gt;Pathway 是一款专为实时数据处理及 AI 应用场景打造的数据处理工具，支持实时数据处理、分析以及 LLM 和 RAG 数据的高效管理&lt;/p&gt;</description>
+    </item>
     <item>
       <title>可以把各种文件类型转成Markdown的一个工具：E2M，每种格式有专门的解析器和转换器，支持自定义配置</title>
       <link>https://ansha886.github.io/posts/markdown-e2m/</link>

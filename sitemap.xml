@@ -2,42 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ansha886.github.io/tags/ai/</loc>
-    <lastmod>2024-12-25T13:55:07+08:00</lastmod>
+    <lastmod>2024-12-30T12:05:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/categories/ai/</loc>
-    <lastmod>2024-12-25T13:55:07+08:00</lastmod>
+    <lastmod>2024-12-30T12:05:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/categories/</loc>
-    <lastmod>2024-12-25T13:55:07+08:00</lastmod>
+    <lastmod>2024-12-30T12:05:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/pathway/</loc>
+    <lastmod>2024-12-30T12:05:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/posts/</loc>
-    <lastmod>2024-12-25T13:55:07+08:00</lastmod>
+    <lastmod>2024-12-30T12:05:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/tags/</loc>
-    <lastmod>2024-12-25T13:55:07+08:00</lastmod>
+    <lastmod>2024-12-30T12:05:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ansha886.github.io/tags/video/</loc>
-    <lastmod>2024-12-25T13:55:07+08:00</lastmod>
+    <loc>https://ansha886.github.io/categories/tools/</loc>
+    <lastmod>2024-12-30T12:05:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/</loc>
+    <lastmod>2024-12-30T12:05:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/categories/agent/</loc>
+    <lastmod>2024-12-30T11:57:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/smolagents/</loc>
+    <lastmod>2024-12-30T11:57:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/video/</loc>
     <lastmod>2024-12-25T13:55:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -182,12 +206,6 @@
   </url>
   <url>
     <loc>https://ansha886.github.io/tags/markdown/</loc>
-    <lastmod>2024-12-11T15:48:49+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/categories/tools/</loc>
     <lastmod>2024-12-11T15:48:49+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
