@@ -8,8 +8,17 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 30 Dec 2024 12:05:37 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 09:07:44 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一款优秀的长故事可视化工具——Story-Adapter，它能够自动生成100帧的漫画或动画分镜图，并且在故事的语义一致性方面表现出色。</title>
+      <link>https://ansha886.github.io/posts/story-adapter/</link>
+      <pubDate>Tue, 31 Dec 2024 09:07:44 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/story-adapter/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <description>&lt;p&gt;一款优秀的长故事可视化工具——Story-Adapter，它能够自动生成100帧的漫画或动画分镜图，并且在故事的语义一致性方面表现出色。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pathway 是一款专为实时数据处理及 AI 应用场景打造的数据处理工具，支持实时数据处理、分析以及 LLM 和 RAG 数据的高效管理</title>
       <link>https://ansha886.github.io/posts/pathway/</link>

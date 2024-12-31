@@ -8,8 +8,17 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 23 Dec 2024 10:48:27 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 09:07:44 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一款优秀的长故事可视化工具——Story-Adapter，它能够自动生成100帧的漫画或动画分镜图，并且在故事的语义一致性方面表现出色。</title>
+      <link>https://ansha886.github.io/posts/story-adapter/</link>
+      <pubDate>Tue, 31 Dec 2024 09:07:44 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/story-adapter/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
+      <description>&lt;p&gt;一款优秀的长故事可视化工具——Story-Adapter，它能够自动生成100帧的漫画或动画分镜图，并且在故事的语义一致性方面表现出色。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>清华和腾讯也开源了一款图像自动上色AI模型：ColorFlow，可以给黑白图像序列上色，特点是能保持角色特征的一致性</title>
       <link>https://ansha886.github.io/posts/colorflow/</link>
