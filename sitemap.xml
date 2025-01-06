@@ -1,20 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ansha886.github.io/categories/agent/</loc>
+    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ansha886.github.io/tags/ai/</loc>
-    <lastmod>2024-12-31T09:07:44+08:00</lastmod>
+    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/categories/ai/</loc>
-    <lastmod>2024-12-31T09:07:44+08:00</lastmod>
+    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/categories/</loc>
-    <lastmod>2024-12-31T09:07:44+08:00</lastmod>
+    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/</loc>
+    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/</loc>
+    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/</loc>
+    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/anydressing/</loc>
+    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/ai-no-jimaku-gumi/</loc>
+    <lastmod>2025-01-06T09:23:42+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/categories/video-agent/</loc>
+    <lastmod>2025-01-06T09:23:42+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/agent/</loc>
+    <lastmod>2025-01-02T11:57:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/%E4%B8%80%E6%AC%BE%E8%BD%BB%E9%87%8F%E7%BA%A7%E7%9A%84%E5%BC%80%E6%BA%90ai%E6%99%BA%E8%83%BD%E4%BD%93%E6%9E%84%E5%BB%BA%E6%A1%86%E6%9E%B6mainframe-orchestra%E5%8F%AF%E6%9E%84%E5%BB%BA%E5%9F%BA%E4%BA%8Ellm%E4%BB%BB%E5%8A%A1%E6%B5%81%E7%A8%8B%E7%9A%84%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%9B%A2%E9%98%9F%E6%94%AF%E6%8C%81%E5%A4%8D%E6%9D%82%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/</loc>
+    <lastmod>2025-01-02T11:57:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/tool/</loc>
+    <lastmod>2025-01-02T11:49:02+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/extractthinker/</loc>
+    <lastmod>2025-01-02T11:49:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -25,25 +91,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ansha886.github.io/posts/</loc>
-    <lastmod>2024-12-31T09:07:44+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/tags/</loc>
-    <lastmod>2024-12-31T09:07:44+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://ansha886.github.io/tags/video/</loc>
-    <lastmod>2024-12-31T09:07:44+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/</loc>
     <lastmod>2024-12-31T09:07:44+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -63,12 +111,6 @@
   <url>
     <loc>https://ansha886.github.io/categories/tools/</loc>
     <lastmod>2024-12-30T12:05:37+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/categories/agent/</loc>
-    <lastmod>2024-12-30T11:57:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -129,12 +171,6 @@
   <url>
     <loc>https://ansha886.github.io/tags/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2024-12-19T11:08:45+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/tags/agent/</loc>
-    <lastmod>2024-12-19T10:52:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

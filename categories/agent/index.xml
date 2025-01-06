@@ -8,8 +8,17 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 30 Dec 2024 11:57:30 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 09:26:41 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>多服装虚拟试穿项目：AnyDressing，支持复杂服装组合与高细节贴合</title>
+      <link>https://ansha886.github.io/posts/anydressing/</link>
+      <pubDate>Mon, 06 Jan 2025 09:26:41 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/anydressing/</guid>
+      <category domain="https://ansha886.github.io/categories/agent/">Agent</category>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;AnyDressing是一个多服装虚拟试穿项目，支持同时试穿多件衣服，处理复杂组合，适用于多种场景，且可与其他AI工具配合使用，具备强大的定制性和个性化调整功能。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hugging Face开源的一款轻量级的agent构建工具：Smolagents，核心逻辑约一千行代码</title>
       <link>https://ansha886.github.io/posts/smolagents/</link>

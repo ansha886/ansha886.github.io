@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/tool/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Thu, 02 Jan 2025 11:49:02 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一款基于LLM的智能文档处理工具：ExtractThinker</title>
+      <link>https://ansha886.github.io/posts/extractthinker/</link>
+      <pubDate>Thu, 02 Jan 2025 11:49:02 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/extractthinker/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;ExtractThinker是一款开源的智能文档处理工具，支持PDF、图片和表格等多种格式，具有自定义提取规则、自动分类和异步批量处理功能。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

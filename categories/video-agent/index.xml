@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Agent - 分类 - XBruce Blog</title>
+    <link>https://ansha886.github.io/categories/video-agent/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Mon, 06 Jan 2025 09:23:42 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/categories/video-agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 视频字幕工具：ai-no-jimaku-gumi，可自动生成多语言翻译字幕</title>
+      <link>https://ansha886.github.io/posts/ai-no-jimaku-gumi/</link>
+      <pubDate>Mon, 06 Jan 2025 09:23:42 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/ai-no-jimaku-gumi/</guid>
+      <category domain="https://ansha886.github.io/categories/video-agent/">Video Agent</category>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;ai-no-jimaku-gumi是一款开源AI工具，能够自动从视频音频中提取语音生成字幕，并支持多种语言翻译，主要输出SRT格式，允许自定义参数设置。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
