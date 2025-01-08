@@ -8,8 +8,40 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 06 Jan 2025 09:26:41 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 12:19:13 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LatentSync：字节跳动开源的端到端自然唇形同步框架</title>
+      <link>https://ansha886.github.io/posts/latentsync/</link>
+      <pubDate>Wed, 08 Jan 2025 12:19:13 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/latentsync/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;字节跳动开源的一个唇形同步项目：LatentSync，是一个端到端的唇形同步框架，效果比较自然，连贯性非常好&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Deep Research：自动化主题研究与报告生成的开源AI助手</title>
+      <link>https://ansha886.github.io/posts/open-deep-research/</link>
+      <pubDate>Wed, 08 Jan 2025 12:10:41 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/open-deep-research/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;Open Deep Research是一款开源AI研究助手，支持自动化研究、报告生成及网页内容提取分析，具备时间过滤搜索功能和多种格式导出选项。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Browser-Use-WebUI：功能增强版的浏览器AI助手</title>
+      <link>https://ansha886.github.io/posts/browser-use-webui/</link>
+      <pubDate>Wed, 08 Jan 2025 12:06:28 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/browser-use-webui/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;browser-use-webui是一款增强功能的浏览器AI助手，支持多种LLM，提供Web界面，避免重复登录，支持高清屏幕录制和提示词优化。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ImBD：一款高准确率的AI文章检测工具，支持检测AI生成、润色、改写与扩写内容</title>
+      <link>https://ansha886.github.io/posts/imbd/</link>
+      <pubDate>Wed, 08 Jan 2025 11:59:09 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/imbd/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;ImBD是一款开源AI文章检测工具，能够高效检测文章是否经过AI修改，支持检测纯AI生成和润色、改写、扩写的文本，准确率高达99.96%。其性能在检测不同版本的AI生成文本时显著提升，适合用于论文和稿件的原创性检测。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>多服装虚拟试穿项目：AnyDressing，支持复杂服装组合与高细节贴合</title>
       <link>https://ansha886.github.io/posts/anydressing/</link>

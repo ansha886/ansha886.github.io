@@ -1,43 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ansha886.github.io/categories/agent/</loc>
-    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://ansha886.github.io/tags/ai/</loc>
-    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
+    <lastmod>2025-01-08T12:19:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/categories/ai/</loc>
-    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
+    <lastmod>2025-01-08T12:19:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/categories/</loc>
-    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
+    <lastmod>2025-01-08T12:19:13+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/latentsync/</loc>
+    <lastmod>2025-01-08T12:19:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/posts/</loc>
-    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
+    <lastmod>2025-01-08T12:19:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/tags/</loc>
-    <lastmod>2025-01-06T09:26:41+08:00</lastmod>
+    <lastmod>2025-01-08T12:19:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/</loc>
+    <lastmod>2025-01-08T12:19:13+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/open-deep-research/</loc>
+    <lastmod>2025-01-08T12:10:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/browser-use-webui/</loc>
+    <lastmod>2025-01-08T12:06:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/imbd/</loc>
+    <lastmod>2025-01-08T11:59:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/categories/agent/</loc>
     <lastmod>2025-01-06T09:26:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
