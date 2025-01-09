@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Wed, 08 Jan 2025 12:19:13 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 09:05:57 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lobe Vidol：互动式虚拟偶像构建项目，支持文字聊天、语音视频对话及角色跳舞</title>
+      <link>https://ansha886.github.io/posts/lobe-vidol/</link>
+      <pubDate>Thu, 09 Jan 2025 09:05:57 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/lobe-vidol/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;Lobe Vidol是一个开源项目，允许用户创建互动式虚拟偶像，支持文字聊天、语音视频对话和角色跳舞，用户可以上传3D模型或使用现成角色模型并自定义动作和反应。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LatentSync：字节跳动开源的端到端自然唇形同步框架</title>
       <link>https://ansha886.github.io/posts/latentsync/</link>

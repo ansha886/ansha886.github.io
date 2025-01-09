@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Wed, 08 Jan 2025 12:19:13 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 09:05:57 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lobe Vidol：互动式虚拟偶像构建项目，支持文字聊天、语音视频对话及角色跳舞</title>
+      <link>https://ansha886.github.io/posts/lobe-vidol/</link>
+      <pubDate>Thu, 09 Jan 2025 09:05:57 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/lobe-vidol/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;Lobe Vidol是一个开源项目，允许用户创建互动式虚拟偶像，支持文字聊天、语音视频对话和角色跳舞，用户可以上传3D模型或使用现成角色模型并自定义动作和反应。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;一个互动式虚拟偶像的构建项目：Lobe Vidol，可以进行文字聊天、语音视频对话，支持角色跳舞&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;可以上传3D模型或使用现成的角色模型创建虚拟角色，可以自定义角色的动作和反应&lt;/p&gt;&#xA;&lt;p&gt;支持更换舞台和背景，点击角色互动&lt;/p&gt;&#xA;&lt;p&gt;github：&lt;a href=&#34;https://github.com/lobehub/lobe-vidol&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://github.com/lobehub/lobe-vidol&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Lobe%20Vidol.webp&#34; alt=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Lobe%20Vidol.webp&#34; srcset=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Lobe%20Vidol.webp?size=small, https://raw.githubusercontent.com/ansha886/blog-images/master/Lobe%20Vidol.webp?size=medium 1.5x, https://raw.githubusercontent.com/ansha886/blog-images/master/Lobe%20Vidol.webp?size=large 2x&#34; data-title=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Lobe%20Vidol.webp&#34; style=&#34;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LatentSync：字节跳动开源的端到端自然唇形同步框架</title>
       <link>https://ansha886.github.io/posts/latentsync/</link>
@@ -84,15 +92,6 @@
       <category domain="https://ansha886.github.io/categories/ai/">AI</category>
       <category domain="https://ansha886.github.io/categories/llm/">LLM</category>
       <description>&lt;p&gt;一款优秀的长故事可视化工具——Story-Adapter，它能够自动生成100帧的漫画或动画分镜图，并且在故事的语义一致性方面表现出色。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;一款不错的长故事可视化工具：Story-Adapter，可以自动生成100帧漫画或动画的分镜图，故事的语义一致性比较好&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;不需要额外训练可以直接用 画面连贯性保持的可以，图片间逻辑清晰，人物场景也能保持一致&lt;/p&gt;&#xA;&lt;p&gt;github：&lt;a href=&#34;https://github.com/jwmao1/story-adapter&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://github.com/jwmao1/story-adapter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Story-Adapter.webp&#34; alt=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Story-Adapter.webp&#34; srcset=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Story-Adapter.webp?size=small, https://raw.githubusercontent.com/ansha886/blog-images/master/Story-Adapter.webp?size=medium 1.5x, https://raw.githubusercontent.com/ansha886/blog-images/master/Story-Adapter.webp?size=large 2x&#34; data-title=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Story-Adapter.webp&#34; style=&#34;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pathway 是一款专为实时数据处理及 AI 应用场景打造的数据处理工具，支持实时数据处理、分析以及 LLM 和 RAG 数据的高效管理</title>
-      <link>https://ansha886.github.io/posts/pathway/</link>
-      <pubDate>Mon, 30 Dec 2024 12:05:37 +0800</pubDate>
-      <guid>https://ansha886.github.io/posts/pathway/</guid>
-      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
-      <category domain="https://ansha886.github.io/categories/tools/">Tools</category>
-      <description>&lt;p&gt;Pathway 是一款专为实时数据处理及 AI 应用场景打造的数据处理工具，支持实时数据处理、分析以及 LLM 和 RAG 数据的高效管理&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;一款适合需要实时数据处理或构建AI应用场景的数据处理工具：Pathway，可以处理实时数据、分析、LLM和RAG数据&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;能处理实时数据流也能处理历史数据，一套代码用于两种场景 底层用Rust开发，速度快，支持多线程和分布式处理 集成能力强可以连接多种数据源，支持主流LLM及常用AI工具&lt;/p&gt;&#xA;&lt;p&gt;github：&lt;a href=&#34;https://github.com/pathwaycom/pathway&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://github.com/pathwaycom/pathway&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Pathway.gif&#34; alt=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Pathway.gif&#34; srcset=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Pathway.gif?size=small, https://raw.githubusercontent.com/ansha886/blog-images/master/Pathway.gif?size=medium 1.5x, https://raw.githubusercontent.com/ansha886/blog-images/master/Pathway.gif?size=large 2x&#34; data-title=&#34;https://raw.githubusercontent.com/ansha886/blog-images/master/Pathway.gif&#34; style=&#34;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
