@@ -8,8 +8,40 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Thu, 09 Jan 2025 09:05:57 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 10:15:54 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STAR：南京大学与字节跳动开源的视频清晰度提升工具，兼顾细节与时间一致性</title>
+      <link>https://ansha886.github.io/posts/star/</link>
+      <pubDate>Fri, 10 Jan 2025 10:15:54 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/star/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;STAR是一款开源工具，能在提高视频分辨率的同时保持时间一致性和细节完整性，智能调整清晰度，解决画面连续性和真实感问题。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Company Researcher：一键搜索企业信息的研究助手，轻松获取公司综合资料</title>
+      <link>https://ansha886.github.io/posts/company-researcher/</link>
+      <pubDate>Fri, 10 Jan 2025 10:14:26 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/company-researcher/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;一键搜索企业信息，一款企业信息研究助手：Company Researcher，输入公司网址，自动收集展示该公司的综合信息 信息来源包括网站子页面、LinkedIn数据、财务信息，新闻报道、维基百科信息、社交媒体Twitter、YouTube、TikTok、Reddit、GitHub等&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Whisk：Google Labs推出的AI图像生成工具，融合角色、场景和风格自动生成创意图像</title>
+      <link>https://ansha886.github.io/posts/whisk/</link>
+      <pubDate>Fri, 10 Jan 2025 10:12:35 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/whisk/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;Google Labs推出的AI图像生成工具Whisk，可以通过输入角色、场景和风格的三张图像，自动生成新图像，基于Gemini生成详细描述并使用Google Imagen 3模型进行图像生成，但目前存在使用国家限制。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amurex：首款开源AI会议助手，支持实时建议、会议总结和自动化跟进任务</title>
+      <link>https://ansha886.github.io/posts/amurex/</link>
+      <pubDate>Fri, 10 Jan 2025 09:22:24 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/amurex/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;首款开源AI会议助手amurex提供实时建议、自动记录会议内容、生成总结和邮件跟进，涵盖全流程会议辅助&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Lobe Vidol：互动式虚拟偶像构建项目，支持文字聊天、语音视频对话及角色跳舞</title>
       <link>https://ansha886.github.io/posts/lobe-vidol/</link>
