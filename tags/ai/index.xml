@@ -8,8 +8,40 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Fri, 10 Jan 2025 10:15:54 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 10:52:36 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>基于WebRTC的AI语音助手openai-realtime-api-nextjs 打造实时语音对话新体验</title>
+      <link>https://ansha886.github.io/posts/openai-realtime-api-nextjs/</link>
+      <pubDate>Mon, 13 Jan 2025 10:52:36 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/openai-realtime-api-nextjs/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;基于OpenAI实时API和WebRTC的AI语音助手支持多种语言的实时语音转录对话，并可集成工具扩展应用能力，如获取时间和访问网站&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>唇形同步模型lipsync-1.9测试版发布 实现高质量唇形同步体验</title>
+      <link>https://ansha886.github.io/posts/lipsync-1.9/</link>
+      <pubDate>Mon, 13 Jan 2025 10:51:13 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/lipsync-1.9/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;lipsync-1.9测试版是一款高质量的唇形同步模型，支持零样本学习，无需训练数据，可在真实视频、动画和AI生成的视频中自然生成和编辑语音。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>英伟达开源智能文档处理工具nv-ingest 高效提取和结构化复杂文档信息</title>
+      <link>https://ansha886.github.io/posts/nv-ingest/</link>
+      <pubDate>Mon, 13 Jan 2025 10:48:24 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/nv-ingest/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;英伟达开源的nv-ingest工具能够高效处理PDF、Word、PPT和图像等复杂文档，支持同时处理多个文档并提取页面上的表格、图表、图像和文本等内容类型。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>多身份定制化视频生成项目Ingredients解析 输入图像和文字即可生成个性化视频</title>
+      <link>https://ansha886.github.io/posts/ingredients/</link>
+      <pubDate>Mon, 13 Jan 2025 10:47:03 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/ingredients/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;Ingredients是一个开源的视频生成项目，能够输入多张人物图像和文字描述，生成包含这些人物的视频，效果自然流畅，支持同时处理多个人物图像。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>STAR：南京大学与字节跳动开源的视频清晰度提升工具，兼顾细节与时间一致性</title>
       <link>https://ansha886.github.io/posts/star/</link>
