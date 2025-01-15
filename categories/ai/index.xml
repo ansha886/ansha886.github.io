@@ -8,8 +8,64 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 13 Jan 2025 10:52:36 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 11:31:28 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WrenAI：用聊天的方式搞定SQL，还能秒变图表！数据团队的绝佳拍档，问一句话，结果全出来</title>
+      <link>https://ansha886.github.io/posts/wrenai/</link>
+      <pubDate>Wed, 15 Jan 2025 11:31:28 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/wrenai/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;WrenAI是一款AI数据交互工具，支持自然语言提问并生成SQL查询，提供数据可视化和报表功能，适合多语言用户，支持无缝工作流导出CSV或JSON格式。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>多身份视频制作神器 Ingredients，轻松把想法做成视频一键生成你想要的人物视频，酷炫到不行</title>
+      <link>https://ansha886.github.io/posts/ingredients/</link>
+      <pubDate>Wed, 15 Jan 2025 11:30:21 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/ingredients/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;Ingredients是一个开源的视频生成项目，能够输入多张人物图像和文字描述，生成包含这些人物的视频，效果自然流畅，支持同时处理多个人物图像。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>做自媒体必备！Riona-AI-Agent，自动化运营的小能手点赞、评论、回复全搞定，省时省力又省心</title>
+      <link>https://ansha886.github.io/posts/riona-ai-agent/</link>
+      <pubDate>Wed, 15 Jan 2025 11:24:43 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/riona-ai-agent/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;Riona-AI-Agent是一款社交媒体机器人，可以自动管理多个社交账号，自动点赞、评论和回复粉丝评论，支持Instagram自动化，Twitter和GitHub的功能正在开发中。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>英伟达 Sana：速度快100倍，生成超清图像的高手！分辨率 4096 × 4096，性能吊打大模型，效率直接拉满</title>
+      <link>https://ansha886.github.io/posts/sana/</link>
+      <pubDate>Wed, 15 Jan 2025 11:23:44 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/sana/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;英伟达开源的Sana模型能够生成4096 × 4096分辨率的图像，性能与Flux-12B相当，参数量仅为其1/20，速度快100倍，适合在16GB显卡上运行。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>超强3D人体生成工具 StructLDM，随心换装、改姿势！想怎么调整就怎么调整，3D建模从此轻松搞定</title>
+      <link>https://ansha886.github.io/posts/structldm/</link>
+      <pubDate>Wed, 15 Jan 2025 11:22:05 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/structldm/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;StructLDM是一个开源项目，能够生成完整的3D人体模型，支持不同姿势和视角的生成，以及服装和体型的编辑修改，允许局部试穿和身份交换等功能。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>阿里通义的新作 MinMo，语音交互就像聊天一样自然, 不管是普通话还是方言，回应都无缝又贴心</title>
+      <link>https://ansha886.github.io/posts/minmo/</link>
+      <pubDate>Wed, 15 Jan 2025 11:20:18 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/minmo/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;阿里通义实验室推出的MinMo模型支持自然的全双工语音交互，能够控制生成语音的情感和方言，表现出色于多语言识别和翻译等任务，代码和模型即将发布。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>英伟达又出神器！nv-ingest，秒处理各种文档，结构化输出so easy！PDF、Word、PPT、图像通通搞定，高效到离谱！</title>
+      <link>https://ansha886.github.io/posts/nv-ingest/</link>
+      <pubDate>Wed, 15 Jan 2025 11:17:42 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/nv-ingest/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;英伟达开源的nv-ingest工具能够高效处理PDF、Word、PPT和图像等复杂文档，支持同时处理多个文档并提取页面上的表格、图表、图像和文本等内容类型。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>基于WebRTC的AI语音助手openai-realtime-api-nextjs 打造实时语音对话新体验</title>
       <link>https://ansha886.github.io/posts/openai-realtime-api-nextjs/</link>
