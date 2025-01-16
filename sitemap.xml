@@ -2,42 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ansha886.github.io/tags/ai/</loc>
-    <lastmod>2025-01-15T11:31:28+08:00</lastmod>
+    <lastmod>2025-01-16T10:30:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/categories/ai/</loc>
-    <lastmod>2025-01-15T11:31:28+08:00</lastmod>
+    <lastmod>2025-01-16T10:30:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/executive-ai-assistant/</loc>
+    <lastmod>2025-01-16T10:30:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/categories/</loc>
-    <lastmod>2025-01-15T11:31:28+08:00</lastmod>
+    <lastmod>2025-01-16T10:30:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/posts/</loc>
-    <lastmod>2025-01-15T11:31:28+08:00</lastmod>
+    <lastmod>2025-01-16T10:30:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/tags/</loc>
-    <lastmod>2025-01-15T11:31:28+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/posts/wrenai/</loc>
-    <lastmod>2025-01-15T11:31:28+08:00</lastmod>
+    <lastmod>2025-01-16T10:30:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/</loc>
+    <lastmod>2025-01-16T10:30:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/minicpm-o-2.6/</loc>
+    <lastmod>2025-01-16T10:28:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/draft/</loc>
+    <lastmod>2025-01-16T10:26:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/categories/draft/</loc>
+    <lastmod>2025-01-16T10:26:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/minimax/</loc>
+    <lastmod>2025-01-16T10:26:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/transformer/</loc>
+    <lastmod>2025-01-16T10:24:59+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/social-media-agent/</loc>
+    <lastmod>2025-01-16T10:23:46+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/wrenai/</loc>
     <lastmod>2025-01-15T11:31:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

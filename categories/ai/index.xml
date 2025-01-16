@@ -8,8 +8,40 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Wed, 15 Jan 2025 11:31:28 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 10:30:48 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI行政助手出场：帮你搞定邮件、日程和日历！executive-ai-assistant，这款AI工具监控邮件、自动回复、安排日程，职场人的效率神器。</title>
+      <link>https://ansha886.github.io/posts/executive-ai-assistant/</link>
+      <pubDate>Thu, 16 Jan 2025 10:30:48 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/executive-ai-assistant/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;executive-ai-assistant是一款AI助手，能够监控工作邮件、自动回复、安排日程和管理日历，支持个性化设置和会议时间的智能安排。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>面壁的黑科技来了：MiniCPM-o 2.6，多模态互动直接上 iPad！支持视觉、语音和多模态流式交互，性能媲美 GPT-4o-202405，随时随地体验强大 AI。</title>
+      <link>https://ansha886.github.io/posts/minicpm-o-2.6/</link>
+      <pubDate>Thu, 16 Jan 2025 10:28:48 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/minicpm-o-2.6/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;MiniCPM-o 2.6是首个支持在iPad等端侧设备进行多模态实时流式交互的模型，具备8B参数量，支持中英双语对话和情感控制，能够实时处理视频和音频流，视觉能力增强，包括OCR和多语言支持。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LLM即插即用神器：Transformer²，让模型适应新任务快人一步！告别传统微调，这个自适应框架实时调整，让大模型更灵活、更高效地应对新挑战。</title>
+      <link>https://ansha886.github.io/posts/transformer/</link>
+      <pubDate>Thu, 16 Jan 2025 10:24:59 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/transformer/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;Transformer²是一个自适应框架，能够实时调整LLM以适应新任务，无需传统微调，提升灵活性和效率。通过快速诊断任务类型和选择性调整参数，解决了反复训练的问题。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>社交媒体助手上线：只需给它一个URL，就能帮你搞定平台帖子！一款名叫 social-media-agent 的工具，自动生成社交媒体内容，还能手动调整，轻松提升效率。</title>
+      <link>https://ansha886.github.io/posts/social-media-agent/</link>
+      <pubDate>Thu, 16 Jan 2025 10:23:46 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/social-media-agent/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;社交媒体自动化助手social-media-agent可以根据给定的URL自动生成Twitter和LinkedIn的帖子，支持内容审核和修改，兼容GitHub、YouTube等源内容，并可与Slack集成。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>WrenAI：用聊天的方式搞定SQL，还能秒变图表！数据团队的绝佳拍档，问一句话，结果全出来</title>
       <link>https://ansha886.github.io/posts/wrenai/</link>
