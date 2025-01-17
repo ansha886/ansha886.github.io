@@ -8,8 +8,40 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Thu, 16 Jan 2025 10:30:48 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 10:41:52 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>国科大×通义实验室：RAIN系统实现实时动画生成！消费级设备就能运行，无限长视频动画生成，流畅又精准，动画领域的新标杆！</title>
+      <link>https://ansha886.github.io/posts/rain/</link>
+      <pubDate>Fri, 17 Jan 2025 10:41:52 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/rain/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;酷，中国科学技术大学和通义实验室出的一款可以在消费级设备上实时动画生成的系统：RAIN，且能生成无限长视频动画，流畅稳定性，准确性和一致性非常好&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OmAgent来了：快速打造“能看会听还会说”的AI助手！一个专为开发智能助手的工具，让AI开发简单又高效。</title>
+      <link>https://ansha886.github.io/posts/omagent/</link>
+      <pubDate>Fri, 17 Jan 2025 10:40:10 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/omagent/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;OmAgent是一个开源工具，支持多模态数据处理，整合多种模型，提供图的工作流编排和多种思维推理方式，能够快速开发智能AI助手。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>智谱新作：GLM-Realtime，多模态互动像开挂一样顺滑！实时视频理解、语音交互，还有清唱功能和长达2分钟的记忆，Function Call也安排上了！</title>
+      <link>https://ansha886.github.io/posts/glm-realtime/</link>
+      <pubDate>Fri, 17 Jan 2025 10:37:43 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/glm-realtime/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;智谱发布了GLM-Realtime，一个全新的端到端多模态模型，支持近乎实时的视频理解、语音交互、清唱功能以及长达2分钟的记忆和Function Call功能，现阶段可通过API免费调用。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>微软又放大招！AI设计新材料，MatterGen帮你一键生成！用需求描述就能设计新材料，这款开源模型让材料研发更高效、更智能。</title>
+      <link>https://ansha886.github.io/posts/mattergen/</link>
+      <pubDate>Fri, 17 Jan 2025 10:34:52 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/mattergen/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;微软开源了MatterGen，一个AI驱动的材料生成模型，可以根据需求描述生成具有多种属性的新材料，开启了材料设计的新范式。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI行政助手出场：帮你搞定邮件、日程和日历！executive-ai-assistant，这款AI工具监控邮件、自动回复、安排日程，职场人的效率神器。</title>
       <link>https://ansha886.github.io/posts/executive-ai-assistant/</link>
