@@ -8,8 +8,32 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Fri, 17 Jan 2025 10:41:52 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 10:03:31 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一款专门用于将HTML转为Markdown和JSON格式的小模型：ReaderLM-v2，只有1.5B，性能超过了Qwen2.5-32B、Gemini2-flash、GPT-4o-2024-08-06等</title>
+      <link>https://ansha886.github.io/posts/readerlm-v2/</link>
+      <pubDate>Sat, 18 Jan 2025 10:03:31 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/readerlm-v2/</guid>
+      <category domain="https://ansha886.github.io/categories/draft/">Draft</category>
+      <description>&lt;p&gt;ReaderLM-v2是一个1.5B的小模型，专门用于将HTML转换为Markdown和JSON，支持复杂格式和29种语言，适合批量处理网页和自动化数据提取。性能超过多个大型模型。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>酷！一款可以对RLHF训练过程可视化的工具：RLLoggingBoard，可以实时显示AI模型训练时的各种数据，分析训练效果</title>
+      <link>https://ansha886.github.io/posts/rlloggingboard/</link>
+      <pubDate>Sat, 18 Jan 2025 10:01:01 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/rlloggingboard/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;RLLoggingBoard是一款开源工具，可以实时可视化RLHF训练过程中的数据，帮助分析训练效果并定位潜在问题。通过监控token概率和response reward分布，用户可以更直观地了解训练动态。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一款辅助阅读和理解科研论文的AI工具，一个科研助手：OpenScholar</title>
+      <link>https://ansha886.github.io/posts/openscholar/</link>
+      <pubDate>Sat, 18 Jan 2025 09:52:04 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/openscholar/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;OpenScholar是一款AI工具，帮助用户阅读和理解科研论文，自动查找相关论文并以通俗易懂的方式呈现内容，支持标准RAG流程，具备自反思生成能力，解决科研论文数量庞大的问题。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>国科大×通义实验室：RAIN系统实现实时动画生成！消费级设备就能运行，无限长视频动画生成，流畅又精准，动画领域的新标杆！</title>
       <link>https://ansha886.github.io/posts/rain/</link>
