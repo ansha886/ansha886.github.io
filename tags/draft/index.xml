@@ -8,16 +8,8 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Sat, 18 Jan 2025 10:03:31 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 10:26:20 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/tags/draft/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>一款专门用于将HTML转为Markdown和JSON格式的小模型：ReaderLM-v2，只有1.5B，性能超过了Qwen2.5-32B、Gemini2-flash、GPT-4o-2024-08-06等</title>
-      <link>https://ansha886.github.io/posts/readerlm-v2/</link>
-      <pubDate>Sat, 18 Jan 2025 10:03:31 +0800</pubDate>
-      <guid>https://ansha886.github.io/posts/readerlm-v2/</guid>
-      <category domain="https://ansha886.github.io/categories/draft/">Draft</category>
-      <description>&lt;p&gt;ReaderLM-v2是一个1.5B的小模型，专门用于将HTML转换为Markdown和JSON，支持复杂格式和29种语言，适合批量处理网页和自动化数据提取。性能超过多个大型模型。&lt;/p&gt;</description>
-    </item>
     <item>
       <title>MiniMax大招：超长上下文模型强势来袭！最新开源的 MiniMax-Text-01 和 MiniMax-VL-01 模型，支持超长 400 万 token 上下文，AI Agent 领域新标杆。</title>
       <link>https://ansha886.github.io/posts/minimax/</link>

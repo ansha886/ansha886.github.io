@@ -1,4 +1,4 @@
-# 英伟达开源智能文档处理工具nv-Ingest 高效提取和结构化复杂文档信息
+# 英伟达又出神器！nv-Ingest，秒处理各种文档，结构化输出so Easy！PDF、Word、PPT、图像通通搞定，高效到离谱！
 
 英伟达开源的nv-ingest工具能够高效处理PDF、Word、PPT和图像等复杂文档，支持同时处理多个文档并提取页面上的表格、图表、图像和文本等内容类型。
 &lt;!--more--&gt;
@@ -9,7 +9,7 @@
 
 github：[https://github.com/NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest)
 
-![](https://raw.githubusercontent.com/ansha886/blog-images/master/nv-ingest1.webp)
+![](https://raw.githubusercontent.com/ansha886/blog-images/master/nv-ingest.webp)
 
 
 ---

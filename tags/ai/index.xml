@@ -8,8 +8,32 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Sat, 18 Jan 2025 10:01:01 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 09:14:10 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>手把手教你做桌面聊天机器人！Mistral AI&#43;LangChain&#43;Tkinter教程上线！以记者助手为例，轻松上手，还能扩展更多用例，快来试试吧！</title>
+      <link>https://ansha886.github.io/posts/mistral-ai-langchain-tkinter/</link>
+      <pubDate>Mon, 20 Jan 2025 09:14:10 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/mistral-ai-langchain-tkinter/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;这是一个关于如何使用Mistral AI、LangChain和Tkinter构建桌面聊天机器人的入门教程，提供了简洁易懂的代码示例，适合快速原型开发，特别以记者助手为例&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>阿里和浙大通义实验室联手推出：OmniThink，让AI写作更“走心”！模拟人类学习和思考，深入解决内容浅显、重复、非原创的问题，AI写作迈入新高度。</title>
+      <link>https://ansha886.github.io/posts/omnithink/</link>
+      <pubDate>Mon, 20 Jan 2025 09:11:23 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/omnithink/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;OmniThink是一个开源的深度AI写作系统，模拟人类学习和思考过程，提供高知识密度、低冗余的内容生成，支持多种底座模型和可自定义知识来源&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一款专门用于将HTML转为Markdown和JSON格式的小模型：ReaderLM-v2，只有1.5B，性能超过了Qwen2.5-32B、Gemini2-flash、GPT-4o-2024-08-06等</title>
+      <link>https://ansha886.github.io/posts/readerlm-v2/</link>
+      <pubDate>Sat, 18 Jan 2025 10:03:31 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/readerlm-v2/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;ReaderLM-v2是一个1.5B的小模型，专门用于将HTML转换为Markdown和JSON，支持复杂格式和29种语言，适合批量处理网页和自动化数据提取。性能超过多个大型模型。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>酷！一款可以对RLHF训练过程可视化的工具：RLLoggingBoard，可以实时显示AI模型训练时的各种数据，分析训练效果</title>
       <link>https://ansha886.github.io/posts/rlloggingboard/</link>
