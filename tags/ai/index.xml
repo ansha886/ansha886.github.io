@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Mon, 20 Jan 2025 09:14:10 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 10:01:41 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI笔记神器NoteGen来了！轻松整理碎片化知识，一键生成高质量笔记！强大的记录功能，帮你快速捕捉和整理内容，告别凌乱，效率倍增！</title>
+      <link>https://ansha886.github.io/posts/notegen/</link>
+      <pubDate>Tue, 21 Jan 2025 10:01:41 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/notegen/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;NoteGen是一款强大的AI笔记助手，支持Markdown编辑、AI对话、截图识别和自动整理功能，能够快速捕捉和整理碎片化知识，生成可读笔记。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>手把手教你做桌面聊天机器人！Mistral AI&#43;LangChain&#43;Tkinter教程上线！以记者助手为例，轻松上手，还能扩展更多用例，快来试试吧！</title>
       <link>https://ansha886.github.io/posts/mistral-ai-langchain-tkinter/</link>
