@@ -1,56 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ansha886.github.io/posts/ai-contentcraft/</loc>
-    <lastmod>2025-01-21T10:04:06+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/categories/</loc>
-    <lastmod>2025-01-21T10:04:06+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/tags/draft/</loc>
-    <lastmod>2025-01-21T10:04:06+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/categories/draft/</loc>
-    <lastmod>2025-01-21T10:04:06+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/posts/</loc>
-    <lastmod>2025-01-21T10:04:06+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/tags/</loc>
-    <lastmod>2025-01-21T10:04:06+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/</loc>
-    <lastmod>2025-01-21T10:04:06+08:00</lastmod>
+    <loc>https://ansha886.github.io/posts/x-dyna/</loc>
+    <lastmod>2025-01-24T15:01:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/tags/ai/</loc>
-    <lastmod>2025-01-21T10:01:41+08:00</lastmod>
+    <lastmod>2025-01-24T15:01:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ansha886.github.io/categories/ai/</loc>
-    <lastmod>2025-01-21T10:01:41+08:00</lastmod>
+    <lastmod>2025-01-24T15:01:14+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/ai%E5%9B%BE%E5%83%8F/</loc>
+    <lastmod>2025-01-24T15:01:14+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/categories/</loc>
+    <lastmod>2025-01-24T15:01:14+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/</loc>
+    <lastmod>2025-01-24T15:01:14+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/</loc>
+    <lastmod>2025-01-24T15:01:14+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/</loc>
+    <lastmod>2025-01-24T15:01:14+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/ai%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2025-01-24T14:59:18+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/chronos/</loc>
+    <lastmod>2025-01-24T14:59:18+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/gamefactory/</loc>
+    <lastmod>2025-01-24T14:57:51+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/ai%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+    <lastmod>2025-01-24T14:55:58+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/flash-thinking/</loc>
+    <lastmod>2025-01-24T14:55:58+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/mobile-agent-e/</loc>
+    <lastmod>2025-01-24T14:54:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/ai%E7%94%B5%E5%BD%B1%E5%9B%A2%E9%98%9F/</loc>
+    <lastmod>2025-01-24T14:52:36+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/filmagent/</loc>
+    <lastmod>2025-01-24T14:52:36+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/videollama-3/</loc>
+    <lastmod>2025-01-24T14:50:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/ai-contentcraft/</loc>
+    <lastmod>2025-01-21T10:04:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -123,6 +177,18 @@
   <url>
     <loc>https://ansha886.github.io/posts/minicpm-o-2.6/</loc>
     <lastmod>2025-01-16T10:28:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/draft/</loc>
+    <lastmod>2025-01-16T10:26:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/categories/draft/</loc>
+    <lastmod>2025-01-16T10:26:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

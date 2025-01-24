@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI文章 - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/ai%E6%96%87%E7%AB%A0/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Fri, 24 Jan 2025 14:59:18 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/ai%E6%96%87%E7%AB%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿里开源CHRONOS：按时间线总结新闻事件的神器！给它一个话题，就能生成按时间排序的重要事件摘要</title>
+      <link>https://ansha886.github.io/posts/chronos/</link>
+      <pubDate>Fri, 24 Jan 2025 14:59:18 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/chronos/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;CHRONOS是阿里巴巴开源的新闻时间线摘要生成系统，能够根据话题生成按时间顺序整理的重要事件摘要，支持开放域新闻生成，处理速度快，适合处理大量新闻信息。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

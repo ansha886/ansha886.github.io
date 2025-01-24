@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI图像 - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/ai%E5%9B%BE%E5%83%8F/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Fri, 24 Jan 2025 15:01:14 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/ai%E5%9B%BE%E5%83%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025m1d24h15m1s14X-Dyna模型登场：单张人像也能生成超真实动态动画！字节、USC、斯坦福联手打造，动作一致性超高，动画效果绝了</title>
+      <link>https://ansha886.github.io/posts/x-dyna/</link>
+      <pubDate>Fri, 24 Jan 2025 15:01:14 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/x-dyna/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;X-Dyna是一个开源的动态人体图像动画模型，基于单张人像图片和驱动视频生成高一致性的动态人物形象动画，支持面部表情控制和多种动画应用。可用于人物动画生成、表情迁移和场景动画制作。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
