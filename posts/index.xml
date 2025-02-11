@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Tue, 11 Feb 2025 09:52:58 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 09:57:02 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gemini 2.0 Flash Thinking登顶：全球最强聊天机器人诞生！</title>
+      <link>https://ansha886.github.io/posts/gemini-2.0-flash-thinking/</link>
+      <pubDate>Tue, 11 Feb 2025 09:57:02 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/gemini-2.0-flash-thinking/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;Gemini 2.0 Flash Thinking推出，聊天机器人在AIME和GPQA基准测试中分别获得73.3%和74.2%的高分，新增代码执行功能和100万个token的内容窗口，提升答案一致性。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>香港大学联手快手推出GameFactory：文本生成交互式游戏与现实场景视频</title>
       <link>https://ansha886.github.io/posts/gamefactory/</link>
