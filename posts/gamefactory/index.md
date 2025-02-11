@@ -1,4 +1,4 @@
-# GameFactory系统：用文字描述，自动生成可交互游戏视频！由港大和快手联合推出，还能生成逼真的现实场景
+# 香港大学联手快手推出GameFactory：文本生成交互式游戏与现实场景视频
 
 GameFactory是香港大学和快手合作开发的系统，可以根据文本描述生成可交互的游戏视频，支持开放域场景生成，具备真实交互感，响应键盘和鼠标输入。
 &lt;!--more--&gt;
@@ -15,8 +15,7 @@ github：[https://github.com/KwaiVGI/GameFactory](https://github.com/KwaiVGI/Gam
 
 项目主页：[](https://t.co/DbSjTOaAus)[https://vvictoryuki.github.io/gamefactory/](https://vvictoryuki.github.io/gamefactory/)
 
-![](https://raw.githubusercontent.com/ansha886/blog-images/master/GameFactory1.webp)
-
+![](https://raw.githubusercontent.com/ansha886/blog-images/master/GameFactory.webp)
 
 
 ---

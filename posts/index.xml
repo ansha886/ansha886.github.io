@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Fri, 24 Jan 2025 15:01:14 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 09:52:58 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>香港大学联手快手推出GameFactory：文本生成交互式游戏与现实场景视频</title>
+      <link>https://ansha886.github.io/posts/gamefactory/</link>
+      <pubDate>Tue, 11 Feb 2025 09:52:58 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/gamefactory/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;GameFactory是香港大学和快手合作开发的系统，可以根据文本描述生成可交互的游戏视频，支持开放域场景生成，具备真实交互感，响应键盘和鼠标输入。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>X-Dyna模型登场：单张人像也能生成超真实动态动画！字节、USC、斯坦福联手打造，动作一致性超高，动画效果绝了</title>
       <link>https://ansha886.github.io/posts/x-dyna/</link>
