@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI换脸 - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/ai%E6%8D%A2%E8%84%B8/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Wed, 12 Feb 2025 10:31:25 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/ai%E6%8D%A2%E8%84%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VisoMaster：AI换脸神器！轻松实现图片 &amp; 视频换脸，效果惊艳！</title>
+      <link>https://ansha886.github.io/posts/visomaster/</link>
+      <pubDate>Wed, 12 Feb 2025 10:31:25 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/visomaster/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;VisoMaster是一款开源的AI软件，支持图片和视频的换脸，提供多种输入/输出格式，并允许自定义模型和微调&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

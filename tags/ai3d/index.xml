@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI3D - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/ai3d/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Wed, 12 Feb 2025 10:33:43 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/ai3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DiffSplat：AI 1秒生成3D内容！输入文本或图像，立刻变出专属3D模型！</title>
+      <link>https://ansha886.github.io/posts/diffsplat/</link>
+      <pubDate>Wed, 12 Feb 2025 10:33:43 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/diffsplat/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;DiffSplat是一个快速生成3D内容的AI工具，能够在1-2秒内根据文本或图像生成高质量的3D内容，支持ControlNet进行精细控制，非常适合快速迭代或实时生成的场景。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

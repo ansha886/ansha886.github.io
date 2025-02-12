@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIExcel - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/aiexcel/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Wed, 12 Feb 2025 10:27:37 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/aiexcel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>超酷！用LLM赋能Excel：Cellm 让你的公式秒变智能助手，轻松完成分析、分类、总结！</title>
+      <link>https://ansha886.github.io/posts/excel-llm-cellm/</link>
+      <pubDate>Wed, 12 Feb 2025 10:27:37 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/excel-llm-cellm/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;cellm是一个开源工具，可以在Excel中通过简单公式自动完成分析、分类和总结任务，处理客户反馈数据并生成摘要，帮助自动化重复性文字工作。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

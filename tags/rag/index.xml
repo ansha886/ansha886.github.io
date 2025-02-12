@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Tue, 24 Dec 2024 11:01:15 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 10:29:47 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/tags/rag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>让网页“开口说话”！SiteRAG——你的开源RAG Chrome扩展，打造浏览器内置智能问答机器人！</title>
+      <link>https://ansha886.github.io/posts/siterag/</link>
+      <pubDate>Wed, 12 Feb 2025 10:29:47 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/siterag/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;SiteRAG是一个开源Chrome扩展程序，支持对当前网页提问并生成答案，能够索引整个网站并构建知识库，支持持续对话和多查询模式，所有操作在本地进行。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>IdentityRAG 是一款集成身份识别功能的 RAG 系统，专为企业客户管理设计。它结合了客户数据管理、身份识别与 AI 聊天功能，能够针对特定客户提供准确且具有上下文感知的回答，为企业提升客户管理效率提供了智能化支持。</title>
       <link>https://ansha886.github.io/posts/identityrag/</link>

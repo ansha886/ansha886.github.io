@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI角色扮演 - 标签 - XBruce Blog</title>
+    <link>https://ansha886.github.io/tags/ai%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/</link>
+    <description>@xbruce&#39;s works</description>
+    <generator>Hugo 0.134.3 &amp; FixIt v0.3.15</generator>
+    <language>en</language>
+    <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
+    <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
+    <lastBuildDate>Wed, 12 Feb 2025 10:36:54 +0800</lastBuildDate>
+    <atom:link href="https://ansha886.github.io/tags/ai%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tifa-Deepseek-14B-CoT：超强AI角色扮演 &amp; 故事写作模型，支持思维链推理 &amp; 128k上下文！</title>
+      <link>https://ansha886.github.io/posts/tifa-deepseek-14b-cot/</link>
+      <pubDate>Wed, 12 Feb 2025 10:36:54 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/tifa-deepseek-14b-cot/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;基于Deepseek-R1-14B优化的模型提升了角色扮演能力和长文本连贯性，适用于角色扮演对话、创意写作和复杂逻辑推理，支持128k上下文和思维链推理。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
