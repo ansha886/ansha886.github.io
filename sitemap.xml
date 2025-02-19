@@ -2,7 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ansha886.github.io/categories/ai/</loc>
-    <lastmod>2025-02-12T10:38:33+08:00</lastmod>
+    <lastmod>2025-02-19T09:54:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/ai%E8%AF%AD%E9%9F%B3/</loc>
+    <lastmod>2025-02-19T09:54:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/categories/</loc>
+    <lastmod>2025-02-19T09:54:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/hibiki/</loc>
+    <lastmod>2025-02-19T09:54:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/</loc>
+    <lastmod>2025-02-19T09:54:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/</loc>
+    <lastmod>2025-02-19T09:54:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/</loc>
+    <lastmod>2025-02-19T09:54:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/tags/ai%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-02-19T09:45:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ansha886.github.io/posts/podcast/</loc>
+    <lastmod>2025-02-19T09:45:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -13,31 +61,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ansha886.github.io/categories/</loc>
-    <lastmod>2025-02-12T10:38:33+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://ansha886.github.io/posts/midscene/</loc>
-    <lastmod>2025-02-12T10:38:33+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/posts/</loc>
-    <lastmod>2025-02-12T10:38:33+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/tags/</loc>
-    <lastmod>2025-02-12T10:38:33+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ansha886.github.io/</loc>
     <lastmod>2025-02-12T10:38:33+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

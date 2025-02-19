@@ -8,8 +8,24 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Wed, 12 Feb 2025 10:38:33 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 09:54:16 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hibiki太酷了！听见你的声音，立马就翻译，还带着你的音色！</title>
+      <link>https://ansha886.github.io/posts/hibiki/</link>
+      <pubDate>Wed, 19 Feb 2025 09:54:16 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/hibiki/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;边听边翻译，像同声传译一样实时输出，同时生成语音和文字翻译 支持声音特征迁移，可以控制声音相似度 目前支持法译英，可以电脑和手机上运行&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paper转播客？这款AI Podcast工具太牛了！学你的用法，越用越顺手！</title>
+      <link>https://ansha886.github.io/posts/podcast/</link>
+      <pubDate>Wed, 19 Feb 2025 09:45:47 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/podcast/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;一个自动化的工具，可以将学术论文从PDF转化为音频，支持文本总结、脚本编写和自我改进，具备版本控制功能&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Midscene：你的AI浏览器助手！用自然语言指挥它，自动操作网页、验证信息、提取数据！</title>
       <link>https://ansha886.github.io/posts/midscene/</link>
