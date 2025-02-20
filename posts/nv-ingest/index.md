@@ -17,5 +17,3 @@ github：[https://github.com/NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-inge
 > 作者:   
 > URL: https://ansha886.github.io/posts/nv-ingest/  
 
-RL: https://ansha886.github.io/posts/nv-ingest/  
-

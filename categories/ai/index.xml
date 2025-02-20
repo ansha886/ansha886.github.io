@@ -8,8 +8,24 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Wed, 19 Feb 2025 09:54:16 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 09:41:54 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RAG Web UI - 基于RAG的智能对话系统，帮助你用自己的知识库快速搭建智能问答</title>
+      <link>https://ansha886.github.io/posts/rag-web-ui/</link>
+      <pubDate>Thu, 20 Feb 2025 09:41:54 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/rag-web-ui/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;支持PDF、DOCX、Markdown、Text等多种文档格式 文档自动分块和向量化，支持异步文档、增量处理 支持上下文多轮对话，回复中标注信息来源 前后端分离设计，分布式文件存储 支持云端和本地模型部署&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sonic - 腾讯的音频驱动肖像动画工具，擅长长视频生成和精准的口型同步。</title>
+      <link>https://ansha886.github.io/posts/sonic/</link>
+      <pubDate>Thu, 20 Feb 2025 09:40:44 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/sonic/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;适合长视频生成，它在口型同步、表情和头部运动方面效果很好 比Jimeng、EMO等眼部表情更丰富、嘴部运动更自然 可以生成1-10分钟的稳定长视频，支持真人及动漫角色 采用全局音频感知的方式，它能听懂理解音频中的情感和语义，使得生成的动画更自然逼真&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hibiki太酷了！听见你的声音，立马就翻译，还带着你的音色！</title>
       <link>https://ansha886.github.io/posts/hibiki/</link>

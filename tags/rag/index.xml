@@ -8,8 +8,16 @@
     <language>en</language>
     <managingEditor>licheng0601@gmail.com (Bruce)</managingEditor>
     <webMaster>licheng0601@gmail.com (Bruce)</webMaster>
-    <lastBuildDate>Wed, 12 Feb 2025 10:29:47 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 09:41:54 +0800</lastBuildDate>
     <atom:link href="https://ansha886.github.io/tags/rag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RAG Web UI - 基于RAG的智能对话系统，帮助你用自己的知识库快速搭建智能问答</title>
+      <link>https://ansha886.github.io/posts/rag-web-ui/</link>
+      <pubDate>Thu, 20 Feb 2025 09:41:54 +0800</pubDate>
+      <guid>https://ansha886.github.io/posts/rag-web-ui/</guid>
+      <category domain="https://ansha886.github.io/categories/ai/">AI</category>
+      <description>&lt;p&gt;支持PDF、DOCX、Markdown、Text等多种文档格式 文档自动分块和向量化，支持异步文档、增量处理 支持上下文多轮对话，回复中标注信息来源 前后端分离设计，分布式文件存储 支持云端和本地模型部署&lt;/p&gt;</description>
+    </item>
     <item>
       <title>让网页“开口说话”！SiteRAG——你的开源RAG Chrome扩展，打造浏览器内置智能问答机器人！</title>
       <link>https://ansha886.github.io/posts/siterag/</link>
